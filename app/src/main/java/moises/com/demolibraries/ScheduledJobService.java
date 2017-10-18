@@ -1,6 +1,8 @@
 package moises.com.demolibraries;
 
+import android.app.NotificationManager;
 import android.app.PendingIntent;
+import android.content.Context;
 import android.content.Intent;
 import android.graphics.Color;
 import android.media.RingtoneManager;
@@ -76,9 +78,9 @@ public class ScheduledJobService extends JobService{
 
     private void showNotification(){
         Log.e(TAG, "TEST SCHEDULERS FINISH");
-       /* NotificationManager notificationManager = (NotificationManager)getSystemService(Context.NOTIFICATION_SERVICE);
+        NotificationManager notificationManager = (NotificationManager)getSystemService(Context.NOTIFICATION_SERVICE);
         if (notificationManager != null)
-            notificationManager.notify(NOTIFICATION_ID, getNotificationBuilder().build());*/
+            notificationManager.notify(NOTIFICATION_ID, getNotificationBuilder().build());
     }
 
     private void error(Throwable throwable){
