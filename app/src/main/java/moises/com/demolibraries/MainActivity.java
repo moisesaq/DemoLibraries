@@ -8,6 +8,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.Unbinder;
 import moises.com.demolibraries.lottie.LottieFragment;
+import moises.com.demolibraries.rxjava.RxJavaFragment;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -26,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
     private void showFragment(){
         getSupportFragmentManager()
                 .beginTransaction()
-                .replace(R.id.content_main, LottieFragment.newInstance())
+                .replace(R.id.content_main, RxJavaFragment.newInstance())
                 .commit();
     }
 
