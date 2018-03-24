@@ -7,10 +7,11 @@ import android.support.v7.widget.Toolbar;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.Unbinder;
+import moises.com.demolibraries.butter.ButterFragment;
 import moises.com.demolibraries.lottie.LottieFragment;
 import moises.com.demolibraries.rxjava.RxJavaFragment;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends BaseActivity {
 
     private Unbinder unbinder;
     @BindView(R.id.toolbar) Toolbar toolbar;
