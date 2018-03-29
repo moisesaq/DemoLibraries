@@ -1,0 +1,5989 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,1",
+                "type": "WPT",
+                "time": "2018-03-14T23:08:24Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.499461667,
+                    -34.445068333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,2",
+                "type": "WPT",
+                "time": "2018-03-14T23:08:26Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.497525,
+                    -34.44202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,2",
+                "type": "WPT",
+                "time": "2018-03-14T23:07:57Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.494166667,
+                    -34.441923333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,2",
+                "type": "WPT",
+                "time": "2018-03-14T23:07:55Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.487681667,
+                    -34.442238333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,2",
+                "type": "WPT",
+                "time": "2018-03-10T01:47:17Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.501898333,
+                    -34.455931667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,3",
+                "type": "WPT",
+                "time": "2018-03-15T00:11:19Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.486846667,
+                    -34.472593333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,3",
+                "type": "WPT",
+                "time": "2018-03-14T23:07:56Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.491525,
+                    -34.442225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,3",
+                "type": "WPT",
+                "time": "2018-03-14T23:07:54Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.483823333,
+                    -34.44173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,3",
+                "type": "WPT",
+                "time": "2018-03-12T11:45:21Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.498613333,
+                    -34.455911667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,3",
+                "type": "WPT",
+                "time": "2018-03-12T11:44:10Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.501555,
+                    -34.453778333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,3",
+                "type": "WPT",
+                "time": "2018-03-12T11:42:29Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.497286667,
+                    -34.457941667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,4",
+                "type": "WPT",
+                "time": "2018-03-14T23:24:21Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.479906667,
+                    -34.441836667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,4",
+                "type": "WPT",
+                "time": "2018-03-14T23:05:34Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.474185,
+                    -34.45655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,5",
+                "type": "WPT",
+                "time": "2018-03-15T00:11:20Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.484658333,
+                    -34.473946667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,5",
+                "type": "WPT",
+                "time": "2018-03-14T23:28:41Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.431251667,
+                    -34.455895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,5",
+                "type": "WPT",
+                "time": "2018-03-14T23:28:40Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.43382,
+                    -34.456015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,5",
+                "type": "WPT",
+                "time": "2018-03-14T23:21:33Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.476363333,
+                    -34.441608333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,5",
+                "type": "WPT",
+                "time": "2018-03-14T23:08:54Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.505653333,
+                    -34.444681667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,5",
+                "type": "WPT",
+                "time": "2018-03-14T23:08:23Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.496498333,
+                    -34.445746667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,5",
+                "type": "WPT",
+                "time": "2018-03-14T23:05:37Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.473906667,
+                    -34.458291667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,5",
+                "type": "WPT",
+                "time": "2018-03-14T23:05:32Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.476605,
+                    -34.455968333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,5",
+                "type": "WPT",
+                "time": "2018-03-14T23:05:31Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.479451667,
+                    -34.455666667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,5",
+                "type": "WPT",
+                "time": "2018-03-14T23:04:39Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.487828333,
+                    -34.449945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,5",
+                "type": "WPT",
+                "time": "2018-03-14T23:04:07Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.489441667,
+                    -34.45188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,6",
+                "type": "WPT",
+                "time": "2018-03-14T23:31:47Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.47321,
+                    -34.46064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,6",
+                "type": "WPT",
+                "time": "2018-03-14T23:22:14Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.445245,
+                    -34.446998333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,6",
+                "type": "WPT",
+                "time": "2018-03-14T23:08:53Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.502045,
+                    -34.444706667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,6",
+                "type": "WPT",
+                "time": "2018-03-14T23:08:47Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.49044,
+                    -34.444985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,6",
+                "type": "WPT",
+                "time": "2018-03-14T23:07:52Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.4835,
+                    -34.444463333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,6",
+                "type": "WPT",
+                "time": "2018-03-14T23:07:51Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.486083333,
+                    -34.444815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,6",
+                "type": "WPT",
+                "time": "2018-03-14T23:05:36Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.473333333,
+                    -34.45494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,6",
+                "type": "WPT",
+                "time": "2018-03-14T23:05:28Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.481813333,
+                    -34.456053333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,7",
+                "type": "WPT",
+                "time": "2018-03-14T23:28:39Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.435953333,
+                    -34.455961667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,7",
+                "type": "WPT",
+                "time": "2018-03-14T23:28:37Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.438328333,
+                    -34.456026667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,7",
+                "type": "WPT",
+                "time": "2018-03-14T23:21:31Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.47252,
+                    -34.441653333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,7",
+                "type": "WPT",
+                "time": "2018-03-14T23:21:29Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.46977,
+                    -34.441855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,7",
+                "type": "WPT",
+                "time": "2018-03-14T23:21:20Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.472546667,
+                    -34.444648333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,7",
+                "type": "WPT",
+                "time": "2018-03-14T23:21:18Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.476418333,
+                    -34.444393333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,7",
+                "type": "WPT",
+                "time": "2018-03-14T23:21:17Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.475213333,
+                    -34.44696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,7",
+                "type": "WPT",
+                "time": "2018-03-14T23:05:40Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.472205,
+                    -34.453416667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,7",
+                "type": "WPT",
+                "time": "2018-03-14T23:04:30Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.486141667,
+                    -34.45228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,7",
+                "type": "WPT",
+                "time": "2018-03-12T11:43:12Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.494611667,
+                    -34.457296667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,8",
+                "type": "WPT",
+                "time": "2018-03-15T00:19:01Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.431255,
+                    -34.4648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,8",
+                "type": "WPT",
+                "time": "2018-03-14T23:55:52Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.487803333,
+                    -34.466086667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,8",
+                "type": "WPT",
+                "time": "2018-03-14T23:55:40Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.492343333,
+                    -34.46282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,8",
+                "type": "WPT",
+                "time": "2018-03-14T23:31:52Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.47174,
+                    -34.462348333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,8",
+                "type": "WPT",
+                "time": "2018-03-14T23:28:36Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.440363333,
+                    -34.456015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,8",
+                "type": "WPT",
+                "time": "2018-03-14T23:22:13Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.447838333,
+                    -34.446953333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,8",
+                "type": "WPT",
+                "time": "2018-03-14T23:20:57Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.472883333,
+                    -34.44696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,8",
+                "type": "WPT",
+                "time": "2018-03-14T23:07:48Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.483661667,
+                    -34.446835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,8",
+                "type": "WPT",
+                "time": "2018-03-14T23:05:42Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.472145,
+                    -34.45165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,8",
+                "type": "WPT",
+                "time": "2018-03-14T23:05:27Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.483881667,
+                    -34.453658333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,8",
+                "type": "WPT",
+                "time": "2018-03-12T11:42:31Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.49988,
+                    -34.458796667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,9",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:57Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.435031667,
+                    -34.464965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,9",
+                "type": "WPT",
+                "time": "2018-03-14T23:28:28Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.44311,
+                    -34.455881667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,9",
+                "type": "WPT",
+                "time": "2018-03-14T23:05:50Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.47167,
+                    -34.449761667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,9",
+                "type": "WPT",
+                "time": "2018-03-14T23:05:48Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.476296667,
+                    -34.449243333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,9",
+                "type": "WPT",
+                "time": "2018-03-14T23:05:44Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.4813,
+                    -34.448965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "0,9",
+                "type": "WPT",
+                "time": "2018-03-12T11:43:10Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.4966,
+                    -34.455756667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:39:43Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.425093333,
+                    -34.472748333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:39:42Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.425935,
+                    -34.471891667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:39:40Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.427865,
+                    -34.470313333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:39:39Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.42925,
+                    -34.469593333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:39:35Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.430816667,
+                    -34.468641667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:39:34Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.433011667,
+                    -34.46724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:39:33Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.434875,
+                    -34.465818333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:39:32Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.435601667,
+                    -34.464736667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:39:31Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.435635,
+                    -34.462725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:39:30Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.435535,
+                    -34.463486667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:39:29Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.436575,
+                    -34.46203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:39:24Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.43971,
+                    -34.459745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:39:23Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.441953333,
+                    -34.457868333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:39:21Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.443833333,
+                    -34.456045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:39:19Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.444906667,
+                    -34.453881667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:38:52Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.447126667,
+                    -34.450825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:38:47Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.447811667,
+                    -34.449996667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:38:46Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.448575,
+                    -34.449211667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:38:45Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.449153333,
+                    -34.448618333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:38:43Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.449855,
+                    -34.447973333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:38:42Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.450478333,
+                    -34.44743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:38:41Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.451401667,
+                    -34.446726667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:38:33Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.452345,
+                    -34.446381667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:38:32Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.454601667,
+                    -34.446045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:38:31Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.457508333,
+                    -34.445831667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:38:15Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.459661667,
+                    -34.44576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:38:12Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.463973333,
+                    -34.445598333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:38:12Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.466498333,
+                    -34.445538333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:38:06Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.468135,
+                    -34.445978333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:38:05Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.46865,
+                    -34.446946667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:38:03Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.468196667,
+                    -34.448341667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:38:01Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.467911667,
+                    -34.449748333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:37:59Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.468693333,
+                    -34.451655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:37:52Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.470156667,
+                    -34.453361667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:37:51Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.471188333,
+                    -34.454915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:31:33Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.471514771,
+                    -34.457171422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:31:32Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.47144771,
+                    -34.458631187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:31:31Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.471112408,
+                    -34.460278922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:31:29Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.470650619,
+                    -34.461484074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:31:27Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.469994592,
+                    -34.462973385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:31:25Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.469518333,
+                    -34.463766667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:31:25Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.469077951,
+                    -34.464484897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:31:23Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.468700511,
+                    -34.464884998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:31:22Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.468583684,
+                    -34.465344372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:31:21Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.468863333,
+                    -34.465801667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:31:20Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.46941,
+                    -34.465771667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:31:19Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.470121667,
+                    -34.46532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:31:18Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.470741667,
+                    -34.464763333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:31:16Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.471416667,
+                    -34.464253333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:31:11Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.472146667,
+                    -34.463643333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:31:09Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.473418333,
+                    -34.462718333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:31:05Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.474828333,
+                    -34.461628333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:31:04Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.475795,
+                    -34.460898333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:31:01Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.476866667,
+                    -34.459978333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:31:01Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.477528333,
+                    -34.459575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:30:57Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.478101667,
+                    -34.459183333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:30:56Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.478805,
+                    -34.458688333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:30:55Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.479648333,
+                    -34.458213333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:30:53Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.480693333,
+                    -34.457725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:30:51Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.48156,
+                    -34.457416667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:30:50Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.48238,
+                    -34.457123333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:30:49Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.48301,
+                    -34.45683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:30:46Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.483475,
+                    -34.456386667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:30:44Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.484068333,
+                    -34.455528333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:30:33Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.484533333,
+                    -34.454926667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:30:32Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.485116667,
+                    -34.454288333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:30:30Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.486028333,
+                    -34.453656667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:29:40Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.487906667,
+                    -34.452866667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:29:38Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.488676667,
+                    -34.452536667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:29:36Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.489446667,
+                    -34.452248333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:29:35Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.490053333,
+                    -34.451933333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:29:33Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.490501667,
+                    -34.451613333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:29:32Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.490908333,
+                    -34.451263333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:29:32Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.491411667,
+                    -34.450798333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:29:30Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.492083333,
+                    -34.450223333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:29:29Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.492496667,
+                    -34.449803333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:29:28Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.492923333,
+                    -34.449386667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:29:26Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.493496667,
+                    -34.449008333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:27:32Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.501565,
+                    -34.448373333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:27:31Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.501175,
+                    -34.448561667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:27:30Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.500873333,
+                    -34.44872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:27:29Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.500395,
+                    -34.448805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:27:28Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.499783333,
+                    -34.448701667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:27:27Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.499143333,
+                    -34.448416667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:27:26Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.498605,
+                    -34.448118333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:27:25Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.497883333,
+                    -34.447808333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:27:24Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.497008333,
+                    -34.447688333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:27:24Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.496125,
+                    -34.447736667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:25:45Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.504455,
+                    -34.450246667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:25:43Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.503681667,
+                    -34.450546667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:25:42Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.502043333,
+                    -34.451185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:25:41Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.501223333,
+                    -34.452048333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:25:37Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.50004,
+                    -34.453023333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:10:06Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.472838333,
+                    -34.473161667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:10:05Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.471956667,
+                    -34.474513333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:10:04Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.47155,
+                    -34.474063333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:10:03Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.471673333,
+                    -34.473423333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:10:01Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.472291667,
+                    -34.473001667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:10:00Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.472961667,
+                    -34.473756667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:09:59Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.472485,
+                    -34.47447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:09:57Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.472133333,
+                    -34.473685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:04:45Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.475358333,
+                    -34.498733333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:02:57Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.461185,
+                    -34.525646667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:02:49Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.46209,
+                    -34.524953333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:02:48Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.4631,
+                    -34.524033333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:02:47Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.464278333,
+                    -34.522873333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:02:45Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.465166667,
+                    -34.521796667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:02:42Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.465793333,
+                    -34.519613333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:02:41Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.465161667,
+                    -34.51814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:02:40Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.46512,
+                    -34.516788333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:02:36Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.465688333,
+                    -34.515521667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:02:34Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.467308333,
+                    -34.513701667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:02:32Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.468865,
+                    -34.512176667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:02:30Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.471116667,
+                    -34.510095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:02:28Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.472063333,
+                    -34.508621667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:02:27Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.472736667,
+                    -34.507045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:02:26Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.473305,
+                    -34.504876667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:02:18Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.473701667,
+                    -34.502486667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:02:17Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.474526667,
+                    -34.50128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:02:16Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.475265,
+                    -34.49969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:02:11Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.475931667,
+                    -34.497331667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:02:09Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.477286667,
+                    -34.496103333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:02:07Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.477561667,
+                    -34.493958333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:02:05Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.477428333,
+                    -34.492696667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:02:04Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.477561667,
+                    -34.491133333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:02:03Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.477728333,
+                    -34.489515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:02:00Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.477261667,
+                    -34.488035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:01:58Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.477361667,
+                    -34.485483333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:01:57Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.477561667,
+                    -34.483208333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:01:55Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.477751667,
+                    -34.481881667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:01:53Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.478226667,
+                    -34.480711667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:01:51Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.479125,
+                    -34.479038333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:01:48Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.480423333,
+                    -34.477338333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:01:47Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.48091,
+                    -34.475386667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:01:46Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.481853333,
+                    -34.473443333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:01:44Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.482718333,
+                    -34.47166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:01:40Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.48365,
+                    -34.469411667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:01:39Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.48405,
+                    -34.467408333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:01:36Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.485015,
+                    -34.465131667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:01:31Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.488408333,
+                    -34.461565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:01:30Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.488675,
+                    -34.459151667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-15T00:01:27Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.494663333,
+                    -34.456435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-14T23:58:03Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.489248333,
+                    -34.464948333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-14T23:57:56Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.491471667,
+                    -34.465961667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-14T23:57:44Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.491386667,
+                    -34.464431667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-14T23:57:30Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.49289,
+                    -34.4647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-14T23:57:21Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.488633333,
+                    -34.46555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-14T23:55:47Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.490283333,
+                    -34.466208333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-14T23:55:44Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.4875,
+                    -34.463703333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-14T23:32:17Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.469485,
+                    -34.465035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-14T23:32:03Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.4701992,
+                    -34.462506248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-14T23:28:48Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.44668,
+                    -34.451298333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-14T23:28:45Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.437795,
+                    -34.460996667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-14T23:22:26Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.470376667,
+                    -34.447396667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-14T23:22:22Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.468418333,
+                    -34.449001667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-14T23:21:54Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.455708333,
+                    -34.444543333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-14T23:21:51Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.46085,
+                    -34.444513333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-14T23:21:49Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.45833,
+                    -34.444761667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-14T23:21:35Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.462008333,
+                    -34.44571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-14T23:21:27Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.465506667,
+                    -34.444845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-14T23:21:22Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.46925,
+                    -34.443911667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-14T23:08:32Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.494415,
+                    -34.447428333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-14T23:08:31Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.495105,
+                    -34.448118333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-14T23:05:46Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.483853333,
+                    -34.449133333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-14T23:04:24Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.483838333,
+                    -34.456005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-14T23:01:29Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.498553333,
+                    -34.453635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-12T11:43:33Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.490403333,
+                    -34.458203333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "type": "WPT",
+                "time": "2018-03-12T11:43:23Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.497388333,
+                    -34.45395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:25Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.440108604,
+                    -34.4626309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,1",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:28Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.439265,
+                    -34.464918333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,1",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:27Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.437376667,
+                    -34.464988333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,1",
+                "type": "WPT",
+                "time": "2018-03-15T00:11:22Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.4809,
+                    -34.472331667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,1",
+                "type": "WPT",
+                "time": "2018-03-14T23:55:57Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.483516667,
+                    -34.464995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,1",
+                "type": "WPT",
+                "time": "2018-03-14T23:55:41Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.488003333,
+                    -34.462473333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,1",
+                "type": "WPT",
+                "time": "2018-03-14T23:32:22Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.467391667,
+                    -34.464888333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,1",
+                "type": "WPT",
+                "time": "2018-03-14T23:28:27Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.445968333,
+                    -34.456106667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,1",
+                "type": "WPT",
+                "time": "2018-03-14T23:28:24Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.448295,
+                    -34.457133333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,1",
+                "type": "WPT",
+                "time": "2018-03-14T23:27:57Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.471073333,
+                    -34.455961667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,1",
+                "type": "WPT",
+                "time": "2018-03-14T23:22:20Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.465963333,
+                    -34.448963333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,1",
+                "type": "WPT",
+                "time": "2018-03-14T23:22:19Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.463221667,
+                    -34.44886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,1",
+                "type": "WPT",
+                "time": "2018-03-14T23:22:09Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.460045,
+                    -34.449115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,1",
+                "type": "WPT",
+                "time": "2018-03-14T23:22:08Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.457506667,
+                    -34.448963333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,1",
+                "type": "WPT",
+                "time": "2018-03-14T23:22:06Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.455031667,
+                    -34.449153333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,1",
+                "type": "WPT",
+                "time": "2018-03-14T23:22:03Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.451745,
+                    -34.447006667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,1",
+                "type": "WPT",
+                "time": "2018-03-12T11:43:42Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.488108333,
+                    -34.460083333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,2",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:29Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.441753333,
+                    -34.464918333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,2",
+                "type": "WPT",
+                "time": "2018-03-15T00:11:30Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.47746,
+                    -34.476418333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,2",
+                "type": "WPT",
+                "time": "2018-03-15T00:11:26Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.480213333,
+                    -34.476331667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,2",
+                "type": "WPT",
+                "time": "2018-03-15T00:09:51Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.468675,
+                    -34.466601667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,2",
+                "type": "WPT",
+                "time": "2018-03-14T23:55:56Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.483631667,
+                    -34.466675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,2",
+                "type": "WPT",
+                "time": "2018-03-14T23:31:05Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.457476667,
+                    -34.453211667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,2",
+                "type": "WPT",
+                "time": "2018-03-14T23:28:23Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.448036667,
+                    -34.454695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,2",
+                "type": "WPT",
+                "time": "2018-03-14T23:28:12Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.451413333,
+                    -34.453656667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,2",
+                "type": "WPT",
+                "time": "2018-03-14T23:28:09Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.454595,
+                    -34.457213333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,2",
+                "type": "WPT",
+                "time": "2018-03-14T23:27:34Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.46781,
+                    -34.453443333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,2",
+                "type": "WPT",
+                "time": "2018-03-14T23:27:21Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.463448333,
+                    -34.453256667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,2",
+                "type": "WPT",
+                "time": "2018-03-14T23:22:05Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.450686667,
+                    -34.449091667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,2",
+                "type": "WPT",
+                "time": "2018-03-14T23:21:39Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.468008333,
+                    -34.446893333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,3",
+                "type": "WPT",
+                "time": "2018-03-15T00:21:29Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.467181667,
+                    -34.468541667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,3",
+                "type": "WPT",
+                "time": "2018-03-15T00:19:37Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.426048333,
+                    -34.473975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,3",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:30Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.443985,
+                    -34.464611667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,3",
+                "type": "WPT",
+                "time": "2018-03-15T00:11:32Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.473526667,
+                    -34.475488333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,3",
+                "type": "WPT",
+                "time": "2018-03-14T23:55:43Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.485103333,
+                    -34.461988333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,3",
+                "type": "WPT",
+                "time": "2018-03-14T23:28:25Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.445516667,
+                    -34.454136667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,3",
+                "type": "WPT",
+                "time": "2018-03-14T23:28:06Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.458941667,
+                    -34.456906667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,3",
+                "type": "WPT",
+                "time": "2018-03-14T23:27:39Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.467051667,
+                    -34.455975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,3",
+                "type": "WPT",
+                "time": "2018-03-14T23:22:01Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.453681667,
+                    -34.446923333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,3",
+                "type": "WPT",
+                "time": "2018-03-14T23:21:57Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.456475,
+                    -34.44693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,3",
+                "type": "WPT",
+                "time": "2018-03-14T23:21:37Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.463808333,
+                    -34.446968333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,3",
+                "type": "WPT",
+                "time": "2018-03-14T23:08:33Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.494093333,
+                    -34.446835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,3",
+                "type": "WPT",
+                "time": "2018-03-12T11:43:25Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.49305,
+                    -34.45598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,4",
+                "type": "WPT",
+                "time": "2018-03-15T00:19:33Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.429853333,
+                    -34.47388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,4",
+                "type": "WPT",
+                "time": "2018-03-15T00:19:30Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.434688333,
+                    -34.473833333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,4",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:55Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.431741667,
+                    -34.47204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,4",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:54Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.435546667,
+                    -34.472016667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,4",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:36Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.442611667,
+                    -34.466356667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,4",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:31Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.446903333,
+                    -34.4648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,4",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:26Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.436061667,
+                    -34.462818333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,4",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:23Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.444418333,
+                    -34.462251667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,4",
+                "type": "WPT",
+                "time": "2018-03-15T00:11:36Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.468675,
+                    -34.478048333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,4",
+                "type": "WPT",
+                "time": "2018-03-15T00:11:33Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.470598333,
+                    -34.475765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,4",
+                "type": "WPT",
+                "time": "2018-03-15T00:11:25Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.480371667,
+                    -34.473845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,4",
+                "type": "WPT",
+                "time": "2018-03-14T23:56:04Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.475225,
+                    -34.46594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,4",
+                "type": "WPT",
+                "time": "2018-03-14T23:55:46Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.490841667,
+                    -34.464795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,4",
+                "type": "WPT",
+                "time": "2018-03-14T23:32:35Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.465128333,
+                    -34.464923333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,4",
+                "type": "WPT",
+                "time": "2018-03-14T23:28:13Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.450831667,
+                    -34.456001667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,4",
+                "type": "WPT",
+                "time": "2018-03-14T23:28:03Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.46332,
+                    -34.456746667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,4",
+                "type": "WPT",
+                "time": "2018-03-14T23:28:00Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.47067,
+                    -34.45764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,4",
+                "type": "WPT",
+                "time": "2018-03-14T23:21:55Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.459596527,
+                    -34.446944284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,5",
+                "type": "WPT",
+                "time": "2018-03-15T00:19:36Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.427221667,
+                    -34.47678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,5",
+                "type": "WPT",
+                "time": "2018-03-15T00:19:34Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.429796667,
+                    -34.47671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,5",
+                "type": "WPT",
+                "time": "2018-03-15T00:19:31Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.432313333,
+                    -34.473926667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,5",
+                "type": "WPT",
+                "time": "2018-03-15T00:19:24Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.434688333,
+                    -34.476308333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,5",
+                "type": "WPT",
+                "time": "2018-03-15T00:19:22Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.437061667,
+                    -34.476945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,5",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:53Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.438978333,
+                    -34.472135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,5",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:51Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.444128333,
+                    -34.471781667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,5",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:50Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.447731667,
+                    -34.47204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,5",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:42Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.456886667,
+                    -34.465178333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,5",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:41Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.45311,
+                    -34.465413333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,5",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:39Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.450908333,
+                    -34.464965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,5",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:38Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.44942,
+                    -34.466428333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,5",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:37Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.446845,
+                    -34.467206667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,5",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:22Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.449300322,
+                    -34.462274398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,5",
+                "type": "WPT",
+                "time": "2018-03-15T00:11:29Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.475801667,
+                    -34.474658333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,5",
+                "type": "WPT",
+                "time": "2018-03-15T00:09:57Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.470086667,
+                    -34.473888333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,5",
+                "type": "WPT",
+                "time": "2018-03-14T23:56:00Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.479965,
+                    -34.466901667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,5",
+                "type": "WPT",
+                "time": "2018-03-14T23:28:10Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.452818333,
+                    -34.455921667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,5",
+                "type": "WPT",
+                "time": "2018-03-14T23:28:07Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.456323333,
+                    -34.456173333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,5",
+                "type": "WPT",
+                "time": "2018-03-14T23:28:04Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.461413333,
+                    -34.455921667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,6",
+                "type": "WPT",
+                "time": "2018-03-15T00:19:29Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.436718333,
+                    -34.474021667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,6",
+                "type": "WPT",
+                "time": "2018-03-15T00:19:27Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.441095,
+                    -34.47388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,6",
+                "type": "WPT",
+                "time": "2018-03-15T00:19:26Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.438693333,
+                    -34.473998333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,6",
+                "type": "WPT",
+                "time": "2018-03-15T00:19:20Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.441983333,
+                    -34.477416667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,6",
+                "type": "WPT",
+                "time": "2018-03-15T00:19:18Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.444385,
+                    -34.47671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,6",
+                "type": "WPT",
+                "time": "2018-03-15T00:19:17Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.446158333,
+                    -34.475295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,6",
+                "type": "WPT",
+                "time": "2018-03-15T00:19:11Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.450965,
+                    -34.474681667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,6",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:49Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.451508333,
+                    -34.471898333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,6",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:43Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.459718333,
+                    -34.464895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,6",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:20Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.454055,
+                    -34.462418333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,6",
+                "type": "WPT",
+                "time": "2018-03-15T00:11:24Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.478325,
+                    -34.473931667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,6",
+                "type": "WPT",
+                "time": "2018-03-15T00:11:23Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.476685,
+                    -34.472361667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,6",
+                "type": "WPT",
+                "time": "2018-03-15T00:11:03Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.464458333,
+                    -34.473931667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,6",
+                "type": "WPT",
+                "time": "2018-03-15T00:10:55Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.467651667,
+                    -34.473931667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,6",
+                "type": "WPT",
+                "time": "2018-03-15T00:09:53Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.472345,
+                    -34.470601667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,6",
+                "type": "WPT",
+                "time": "2018-03-15T00:07:19Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.474428333,
+                    -34.46887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,6",
+                "type": "WPT",
+                "time": "2018-03-14T23:56:06Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.47553,
+                    -34.463738333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,6",
+                "type": "WPT",
+                "time": "2018-03-14T23:56:03Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.476855,
+                    -34.46805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,6",
+                "type": "WPT",
+                "time": "2018-03-14T23:55:59Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.48153,
+                    -34.464995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,6",
+                "type": "WPT",
+                "time": "2018-03-14T23:32:43Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.46266,
+                    -34.464831667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,6",
+                "type": "WPT",
+                "time": "2018-03-14T23:05:02Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.498948333,
+                    -34.448928333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,6",
+                "type": "WPT",
+                "time": "2018-03-14T23:02:24Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.499183333,
+                    -34.451843333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,6",
+                "type": "WPT",
+                "time": "2018-03-12T11:43:34Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.490913333,
+                    -34.456068333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,7",
+                "type": "WPT",
+                "time": "2018-03-15T00:19:15Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.443613333,
+                    -34.47388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,7",
+                "type": "WPT",
+                "time": "2018-03-15T00:19:04Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.460605,
+                    -34.47395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,7",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:48Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.455913333,
+                    -34.47171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,7",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:47Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.458231667,
+                    -34.471875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,7",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:45Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.460221667,
+                    -34.467265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,7",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:19Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.456658333,
+                    -34.462111667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,7",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:17Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.461378333,
+                    -34.461498333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,7",
+                "type": "WPT",
+                "time": "2018-03-15T00:11:38Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.471761667,
+                    -34.477728333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,7",
+                "type": "WPT",
+                "time": "2018-03-15T00:11:35Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.465111667,
+                    -34.475836667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,7",
+                "type": "WPT",
+                "time": "2018-03-14T23:56:07Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.47843,
+                    -34.46191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,7",
+                "type": "WPT",
+                "time": "2018-03-14T23:32:08Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.46723,
+                    -34.462586667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,8",
+                "type": "WPT",
+                "time": "2018-03-15T00:19:13Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.455085,
+                    -34.476403333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,8",
+                "type": "WPT",
+                "time": "2018-03-15T00:19:09Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.447246667,
+                    -34.473903333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,8",
+                "type": "WPT",
+                "time": "2018-03-15T00:11:39Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.465058333,
+                    -34.47828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,8",
+                "type": "WPT",
+                "time": "2018-03-15T00:09:54Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.469521667,
+                    -34.472215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,9",
+                "type": "WPT",
+                "time": "2018-03-15T00:19:07Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.455741667,
+                    -34.47381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1,9",
+                "type": "WPT",
+                "time": "2018-03-15T00:18:46Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.462608333,
+                    -34.469565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2",
+                "type": "WPT",
+                "time": "2018-03-15T00:19:08Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.45331,
+                    -34.473856667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2",
+                "type": "WPT",
+                "time": "2018-03-15T00:19:05Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.457486667,
+                    -34.473856667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2",
+                "type": "WPT",
+                "time": "2018-03-15T00:00:01Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.487776667,
+                    -34.456956667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2",
+                "type": "WPT",
+                "time": "2018-03-14T23:59:59Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.490803333,
+                    -34.454981667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2",
+                "type": "WPT",
+                "time": "2018-03-14T23:59:57Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.492966667,
+                    -34.453883333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2",
+                "type": "WPT",
+                "time": "2018-03-14T23:59:56Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.495096667,
+                    -34.453198333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2",
+                "type": "WPT",
+                "time": "2018-03-14T23:59:55Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.496726667,
+                    -34.452485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2",
+                "type": "WPT",
+                "time": "2018-03-14T23:59:54Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.49829,
+                    -34.451743333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2",
+                "type": "WPT",
+                "time": "2018-03-14T23:59:52Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.497925,
+                    -34.449191667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2",
+                "type": "WPT",
+                "time": "2018-03-14T23:59:45Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.493831667,
+                    -34.450426667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2",
+                "type": "WPT",
+                "time": "2018-03-14T23:59:45Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.492733333,
+                    -34.451578333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2",
+                "type": "WPT",
+                "time": "2018-03-14T23:59:42Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.491036667,
+                    -34.452291667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2",
+                "type": "WPT",
+                "time": "2018-03-14T23:59:40Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.489606667,
+                    -34.45328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2",
+                "type": "WPT",
+                "time": "2018-03-14T23:59:39Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.487975,
+                    -34.454816667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2",
+                "type": "WPT",
+                "time": "2018-03-14T23:59:36Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.486278333,
+                    -34.455913333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2",
+                "type": "WPT",
+                "time": "2018-03-14T23:59:34Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.483416667,
+                    -34.457615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2",
+                "type": "WPT",
+                "time": "2018-03-14T23:59:33Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.482153333,
+                    -34.45874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2",
+                "type": "WPT",
+                "time": "2018-03-14T23:59:30Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.481321667,
+                    -34.460138333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2",
+                "type": "WPT",
+                "time": "2018-03-14T23:59:20Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.48345,
+                    -34.459726667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2",
+                "type": "WPT",
+                "time": "2018-03-14T23:04:52Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.495911667,
+                    -34.449133333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2",
+                "type": "WPT",
+                "time": "2018-03-12T11:43:45Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.484713333,
+                    -34.456775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2,2",
+                "type": "WPT",
+                "time": "2018-03-12T11:43:36Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.48882,
+                    -34.456026667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2,4",
+                "type": "WPT",
+                "time": "2018-03-12T11:43:41Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.486481667,
+                    -34.456845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2,5",
+                "type": "WPT",
+                "time": "2018-03-14T23:02:33Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.492331667,
+                    -34.45326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2,9",
+                "type": "WPT",
+                "time": "2018-03-14T23:03:23Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.494268333,
+                    -34.451905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "3",
+                "type": "WPT",
+                "time": "2018-03-14T23:03:16Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.49537,
+                    -34.451808333
+                ]
+            }
+        }
+    ]
+}

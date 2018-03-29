@@ -9,6 +9,7 @@ import butterknife.ButterKnife;
 import butterknife.Unbinder;
 import moises.com.demolibraries.butter.ButterFragment;
 import moises.com.demolibraries.lottie.LottieFragment;
+import moises.com.demolibraries.mapbox.HeatMapboxFragment;
 import moises.com.demolibraries.rxjava.RxJavaFragment;
 
 public class MainActivity extends BaseActivity {
@@ -28,7 +29,7 @@ public class MainActivity extends BaseActivity {
     private void showFragment(){
         getSupportFragmentManager()
                 .beginTransaction()
-                .replace(R.id.content_main, RxJavaFragment.newInstance())
+                .replace(R.id.content_main, HeatMapboxFragment.newInstance())
                 .commit();
     }
 

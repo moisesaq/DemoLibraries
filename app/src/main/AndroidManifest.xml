@@ -3,6 +3,8 @@
     package="moises.com.demolibraries">
 
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
 
     <application
         android:name=".App"
@@ -24,7 +26,7 @@
         </activity>
 
         <service
-            android:name=".ScheduledJobService"
+            android:name=".jobDispatcher.ScheduledJobService"
             android:exported="false">
             <intent-filter>
                 <action android:name="com.firebase.jobdispatcher.ACTION_EXECUTE" />

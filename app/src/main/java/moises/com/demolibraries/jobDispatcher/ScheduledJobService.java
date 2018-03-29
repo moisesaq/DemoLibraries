@@ -1,4 +1,4 @@
-package moises.com.demolibraries;
+package moises.com.demolibraries.jobDispatcher;
 
 import android.app.NotificationManager;
 import android.app.PendingIntent;
@@ -19,6 +19,8 @@ import java.util.concurrent.TimeUnit;
 import io.reactivex.Observable;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.schedulers.Schedulers;
+import moises.com.demolibraries.MainActivity;
+import moises.com.demolibraries.R;
 
 
 public class ScheduledJobService extends JobService{

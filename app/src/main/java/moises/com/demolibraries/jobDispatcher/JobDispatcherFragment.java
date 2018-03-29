@@ -23,7 +23,6 @@ import butterknife.OnClick;
 import butterknife.Unbinder;
 import moises.com.demolibraries.MainActivity;
 import moises.com.demolibraries.R;
-import moises.com.demolibraries.ScheduledJobService;
 
 
 public class JobDispatcherFragment extends Fragment{

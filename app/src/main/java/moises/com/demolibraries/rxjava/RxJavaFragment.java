@@ -21,7 +21,6 @@ import io.reactivex.Observable;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.disposables.CompositeDisposable;
 import io.reactivex.schedulers.Schedulers;
-import moises.com.demolibraries.AlertsDispatcher;
 import moises.com.demolibraries.App;
 import moises.com.demolibraries.R;
 import moises.com.demolibraries.SecondActivity;

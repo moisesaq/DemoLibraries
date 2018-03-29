@@ -47,4 +47,7 @@ dependencies {
 
     //Lottie
     compile 'com.airbnb.android:lottie:2.2.5'
+
+    //Mapbox
+    implementation 'com.mapbox.mapboxsdk:mapbox-android-sdk:5.5.1'
 }

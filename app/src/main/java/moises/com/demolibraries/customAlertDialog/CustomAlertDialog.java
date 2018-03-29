@@ -21,7 +21,6 @@ import moises.com.demolibraries.rxjava.Home;
 
 public class CustomAlertDialog extends AlertDialog {
     public static final String TAG = CustomAlertDialog.class.getSimpleName();
-    private View view;
     private Unbinder unbinder;
     private Home home;
 
