@@ -1,17 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    xmlns:mapbox="http://schemas.android.com/apk/res-auto"
-    android:orientation="vertical">
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <com.mapbox.mapboxsdk.maps.MapView
         android:id="@+id/mapView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        mapbox:mapbox_cameraTargetLat="-34.6037389"
-        mapbox:mapbox_cameraTargetLng="-58.3837591"
-        mapbox:mapbox_styleUrl="mapbox://styles/mapbox/streets-v10"
-        mapbox:mapbox_cameraZoom="11" />
+        app:mapbox_cameraTargetLat="-34.6037389"
+        app:mapbox_cameraTargetLng="-58.3837591"
+        app:mapbox_styleUrl="mapbox://styles/mapbox/streets-v10"
+        app:mapbox_cameraZoom="11" />
 
-</LinearLayout>
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button" />
+
+    <com.xw.repo.BubbleSeekBar
+        android:id="@+id/bubble_seek_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="@android:color/white"
+        android:paddingBottom="@dimen/padding_medium"
+        app:bsb_bubble_color="@color/orange"
+        app:bsb_bubble_text_color="@android:color/white"
+        app:bsb_max="2.0"
+        app:bsb_min="-2"
+        app:bsb_progress="0"
+        app:bsb_second_track_color="@color/orange"
+        app:bsb_section_count="4"
+        app:bsb_section_text_position="bottom_sides"
+        app:bsb_show_progress_in_float="true"
+        app:bsb_show_section_mark="true"
+        app:bsb_show_section_text="true"
+        app:bsb_show_thumb_text="true"
+        app:bsb_track_color="@color/grayIcon" />
+
+</FrameLayout>

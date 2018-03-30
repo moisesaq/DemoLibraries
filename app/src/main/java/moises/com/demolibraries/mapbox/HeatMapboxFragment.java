@@ -18,17 +18,16 @@ import com.mapbox.mapboxsdk.maps.MapView;
 import com.mapbox.mapboxsdk.maps.MapboxMap;
 import com.mapbox.mapboxsdk.maps.OnMapReadyCallback;
 import com.mapbox.mapboxsdk.style.functions.Function;
+import com.mapbox.mapboxsdk.style.functions.SourceFunction;
 import com.mapbox.mapboxsdk.style.functions.stops.IntervalStops;
-import com.mapbox.mapboxsdk.style.functions.stops.Stop;
 import com.mapbox.mapboxsdk.style.layers.CircleLayer;
-import com.mapbox.mapboxsdk.style.layers.Property;
-import com.mapbox.mapboxsdk.style.layers.PropertyFactory;
 import com.mapbox.mapboxsdk.style.layers.SymbolLayer;
 import com.mapbox.mapboxsdk.style.sources.GeoJsonOptions;
 import com.mapbox.mapboxsdk.style.sources.GeoJsonSource;
 import com.mapbox.mapboxsdk.style.sources.Source;
 import com.mapbox.services.commons.geojson.Feature;
 import com.mapbox.services.commons.geojson.FeatureCollection;
+import com.xw.repo.BubbleSeekBar;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -36,6 +35,7 @@ import java.io.InputStream;
 import butterknife.BindColor;
 import butterknife.BindView;
 import butterknife.ButterKnife;
+import butterknife.OnClick;
 import butterknife.Unbinder;
 import moises.com.demolibraries.R;
 
@@ -57,7 +57,11 @@ public class HeatMapboxFragment extends Fragment implements OnMapReadyCallback{
     private static final String GEOJSON_SOURCE_ID = "geojson_buenos_aires";
     private Unbinder unbinder;
     private MapboxMap mapboxMap;
+    private FeatureCollection featureCollection;
+    private float increase = 0.0f;
+
     @BindView(R.id.mapView) MapView mapView;
+    @BindView(R.id.bubble_seek_bar) BubbleSeekBar bubbleSeekBar;
 
     @BindColor(R.color.green) int green;
     @BindColor(R.color.yellow) int yellow;
@@ -79,13 +83,47 @@ public class HeatMapboxFragment extends Fragment implements OnMapReadyCallback{
     private void setUp(Bundle savedInstanceState) {
         mapView.onCreate(savedInstanceState);
         mapView.getMapAsync(this);
+        bubbleSeekBar.setOnProgressChangedListener(new BubbleSeekBar.OnProgressChangedListener() {
+            @Override
+            public void onProgressChanged(BubbleSeekBar bubbleSeekBar, int progress, float progressFloat) {
+                //log("Progress float: " + progressFloat);
+                /*if (progressFloat != increase){
+                    increase = progressFloat;
+                    updateFeatureCollection(increase);
+                }*/
+            }
+
+            @Override
+            public void getProgressOnActionUp(BubbleSeekBar bubbleSeekBar, int progress, float progressFloat) {
+                log("getProgressOnActionUp: " + progressFloat);
+                updateFeatureCollection(progressFloat);
+            }
+
+            @Override
+            public void getProgressOnFinally(BubbleSeekBar bubbleSeekBar, int progress, float progressFloat) {
+                log("getProgressOnFinally: " + progressFloat);
+            }
+        });
     }
 
+    private float calculateIncrease(float progress){
+        if (progress == increase)
+            return increase;
+        if (progress < 0 && progress < increase){
+
+        }
+        return 0;
+    }
     @Override
     public void onMapReady(MapboxMap mapboxMap) {
         this.mapboxMap = mapboxMap;
         //addClusteredGeoJsonSource();
-        showLayers();
+        showHeatMap();
+    }
+
+    @OnClick(R.id.button2)
+    public void testClick(){
+        updateFeatureCollection(0.3f);
     }
 
     @Override
@@ -135,65 +173,50 @@ public class HeatMapboxFragment extends Fragment implements OnMapReadyCallback{
     private static final String IMAGE_DEEP_ID = "image_deep_id";
     private static final String CIRCLE_DEEP_ID = "circle_deep_id";
 
-    private void showLayers(){
-        FeatureCollection featureCollection = FeatureCollection.fromJson(loadJSONFromAsset());
-        //getFeatureCollection();
+    private void showHeatMap(){
+        featureCollection = FeatureCollection.fromJson(loadJSONFromAsset());
         Source source = new GeoJsonSource(SOURCE_DEEPS_ID, featureCollection);
         mapboxMap.addSource(source);
 
-        /*Bitmap deepBitmap = generateBitmap();
-        mapboxMap.addImage(IMAGE_DEEP_ID, deepBitmap);
-        SymbolLayer symbolLayer = new SymbolLayer(LAYER_DEEPS_ID, SOURCE_DEEPS_ID);
-        symbolLayer.setProperties(PropertyFactory.iconImage());
-        mapboxMap.addLayer(symbolLayer);*/
         CircleLayer circleLayer = new CircleLayer(CIRCLE_DEEP_ID, SOURCE_DEEPS_ID);
-
         circleLayer.withProperties(
-                PropertyFactory.circleColor(Function.property("deep",
-                        IntervalStops.interval(
-                                stop(0, circleColor(red)),
-                                stop(1.3, circleColor(red)),
-                                stop(1.4, circleColor(yellow)),
-                                stop(1.5, circleColor(yellow)),
-                                stop(1.6, circleColor(green)),
-                                stop(5.5, circleColor(green))
-                ))),
-                circleRadius(20f), circleBlur(1f));
+                circleColor(getCircleColor()), circleRadius(15f), circleBlur(0f));
         mapboxMap.addLayer(circleLayer);
         showFeatures(featureCollection);
     }
 
+    private SourceFunction<Number, String> getCircleColor(){
+        return Function.property("deep", IntervalStops.interval(
+                        stop(0, circleColor(red)),
+                        stop(1.3, circleColor(red)),
+                        stop(1.4, circleColor(yellow)),
+                        stop(1.5, circleColor(yellow)),
+                        stop(1.6, circleColor(green)),
+                        stop(5.5, circleColor(green))
+                ));
+    }
 
     /*las profundidades que sean mayores a 1,5 el punto va en verde.
     las profundidades que esten entre 1,3 y 1,5 van en amarillo.
     las profundidades menores a 1,3 van en rojo.*/
 
-    private FeatureCollection getFeatureCollection(){
-        FeatureCollection collection = FeatureCollection.fromJson(loadJSONFromAsset());
-        for (Feature feature: collection.getFeatures()){
-            feature.setProperties(updateProperties(feature));
+    private void updateFeatureCollection(float numberDeep){
+        //FeatureCollection collection = FeatureCollection.fromJson(loadJSONFromAsset());
+        for (Feature feature: featureCollection.getFeatures()){
+            feature.setProperties(updateProperties(feature, numberDeep));
         }
-        return collection;
+        GeoJsonSource geoJsonSource = (GeoJsonSource) mapboxMap.getSource(SOURCE_DEEPS_ID);
+        if (geoJsonSource != null)
+            geoJsonSource.setGeoJson(featureCollection);
     }
 
-    private JsonObject updateProperties(Feature feature){
+    private JsonObject updateProperties(Feature feature, float numberDeep){
         DeepValues deepValues = new Gson().fromJson(feature.getProperties(), DeepValues.class);
-        deepValues.setDeepColor(getDeepColor(deepValues.getDeep()));
-        //log("Values : " + deepValues.toString());
+        deepValues.setDeep(deepValues.getDeep() + numberDeep);
         JsonObject jsonObject = new JsonObject();
         jsonObject.addProperty("deep", deepValues.getDeep());
-        jsonObject.addProperty("deepColor", deepValues.getDeepColor());
+        log("New deep: " + deepValues.toString());
         return jsonObject;
-    }
-
-    private int getDeepColor(float deep){
-        if (deep > 1.5){
-            return green;
-        }else if (deep <= 1.5 || deep >= 1.3){
-            return yellow;
-        }else {
-            return red;
-        }
     }
 
     private Bitmap generateBitmap(){
@@ -206,6 +229,9 @@ public class HeatMapboxFragment extends Fragment implements OnMapReadyCallback{
         }
     }
 
+    /**
+     * Show heat map with clusters
+     */
     private void addClusteredGeoJsonSource() {
         // Add a new source from our GeoJSON data and set the 'cluster' option to true.
         mapboxMap.addSource(new GeoJsonSource(GEOJSON_SOURCE_ID, loadJSONFromAsset(),
