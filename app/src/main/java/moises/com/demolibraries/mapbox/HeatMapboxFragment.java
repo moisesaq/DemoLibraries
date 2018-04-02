@@ -21,6 +21,7 @@ import com.mapbox.mapboxsdk.style.functions.Function;
 import com.mapbox.mapboxsdk.style.functions.SourceFunction;
 import com.mapbox.mapboxsdk.style.functions.stops.IntervalStops;
 import com.mapbox.mapboxsdk.style.layers.CircleLayer;
+import com.mapbox.mapboxsdk.style.layers.PropertyValue;
 import com.mapbox.mapboxsdk.style.layers.SymbolLayer;
 import com.mapbox.mapboxsdk.style.sources.GeoJsonOptions;
 import com.mapbox.mapboxsdk.style.sources.GeoJsonSource;
@@ -42,6 +43,7 @@ import moises.com.demolibraries.R;
 import static com.mapbox.mapboxsdk.style.functions.stops.Stop.stop;
 import static com.mapbox.mapboxsdk.style.layers.Filter.all;
 import static com.mapbox.mapboxsdk.style.layers.Filter.gte;
+import static com.mapbox.mapboxsdk.style.layers.Filter.has;
 import static com.mapbox.mapboxsdk.style.layers.Filter.lt;
 import static com.mapbox.mapboxsdk.style.layers.Filter.neq;
 import static com.mapbox.mapboxsdk.style.layers.PropertyFactory.circleBlur;
@@ -58,7 +60,7 @@ public class HeatMapboxFragment extends Fragment implements OnMapReadyCallback{
     private Unbinder unbinder;
     private MapboxMap mapboxMap;
     private FeatureCollection featureCollection;
-    private float increase = 0.0f;
+    private CircleLayer circleLayer;
 
     @BindView(R.id.mapView) MapView mapView;
     @BindView(R.id.bubble_seek_bar) BubbleSeekBar bubbleSeekBar;
@@ -106,24 +108,11 @@ public class HeatMapboxFragment extends Fragment implements OnMapReadyCallback{
         });
     }
 
-    private float calculateIncrease(float progress){
-        if (progress == increase)
-            return increase;
-        if (progress < 0 && progress < increase){
-
-        }
-        return 0;
-    }
     @Override
     public void onMapReady(MapboxMap mapboxMap) {
         this.mapboxMap = mapboxMap;
         //addClusteredGeoJsonSource();
         showHeatMap();
-    }
-
-    @OnClick(R.id.button2)
-    public void testClick(){
-        updateFeatureCollection(0.3f);
     }
 
     @Override
@@ -178,15 +167,15 @@ public class HeatMapboxFragment extends Fragment implements OnMapReadyCallback{
         Source source = new GeoJsonSource(SOURCE_DEEPS_ID, featureCollection);
         mapboxMap.addSource(source);
 
-        CircleLayer circleLayer = new CircleLayer(CIRCLE_DEEP_ID, SOURCE_DEEPS_ID);
-        circleLayer.withProperties(
-                circleColor(getCircleColor()), circleRadius(15f), circleBlur(0f));
+        circleLayer = new CircleLayer(CIRCLE_DEEP_ID, SOURCE_DEEPS_ID);
+        circleLayer.withProperties(circleColor(getCircleColor("depth")),
+                circleRadius(15f), circleBlur(0f));
         mapboxMap.addLayer(circleLayer);
         showFeatures(featureCollection);
     }
 
-    private SourceFunction<Number, String> getCircleColor(){
-        return Function.property("deep", IntervalStops.interval(
+    private SourceFunction<Number, String> getCircleColor(String property){
+        return Function.property(property, IntervalStops.interval(
                         stop(0, circleColor(red)),
                         stop(1.3, circleColor(red)),
                         stop(1.4, circleColor(yellow)),
@@ -199,23 +188,23 @@ public class HeatMapboxFragment extends Fragment implements OnMapReadyCallback{
     /*las profundidades que sean mayores a 1,5 el punto va en verde.
     las profundidades que esten entre 1,3 y 1,5 van en amarillo.
     las profundidades menores a 1,3 van en rojo.*/
-
     private void updateFeatureCollection(float numberDeep){
-        //FeatureCollection collection = FeatureCollection.fromJson(loadJSONFromAsset());
         for (Feature feature: featureCollection.getFeatures()){
             feature.setProperties(updateProperties(feature, numberDeep));
         }
         GeoJsonSource geoJsonSource = (GeoJsonSource) mapboxMap.getSource(SOURCE_DEEPS_ID);
         if (geoJsonSource != null)
             geoJsonSource.setGeoJson(featureCollection);
+        circleLayer.setProperties(circleColor(getCircleColor("modifiedDepth")),
+                circleRadius(15f), circleBlur(0f));
     }
 
-    private JsonObject updateProperties(Feature feature, float numberDeep){
-        DeepValues deepValues = new Gson().fromJson(feature.getProperties(), DeepValues.class);
-        deepValues.setDeep(deepValues.getDeep() + numberDeep);
+    private JsonObject updateProperties(Feature feature, float numberDepth){
+        float depth = feature.getProperty("depth").getAsFloat();
         JsonObject jsonObject = new JsonObject();
-        jsonObject.addProperty("deep", deepValues.getDeep());
-        log("New deep: " + deepValues.toString());
+        jsonObject.addProperty("depth", depth);
+        jsonObject.addProperty("modifiedDepth", depth + numberDepth);
+        log("New depth: " + jsonObject.toString());
         return jsonObject;
     }
 

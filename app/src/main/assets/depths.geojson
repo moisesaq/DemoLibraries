@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.1,
+                "depth": 0.1,
                 "type": "WPT",
                 "time": "2018-03-14T23:08:24Z",
                 "sym": "triangle"
@@ -20,7 +20,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.2,
+                "depth": 0.2,
                 "type": "WPT",
                 "time": "2018-03-14T23:08:26Z",
                 "sym": "triangle"
@@ -36,7 +36,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.2,
+                "depth": 0.2,
                 "type": "WPT",
                 "time": "2018-03-14T23:07:57Z",
                 "sym": "triangle"
@@ -52,7 +52,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.2,
+                "depth": 0.2,
                 "type": "WPT",
                 "time": "2018-03-14T23:07:55Z",
                 "sym": "triangle"
@@ -68,7 +68,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.2,
+                "depth": 0.2,
                 "type": "WPT",
                 "time": "2018-03-10T01:47:17Z",
                 "sym": "triangle"
@@ -84,7 +84,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.3,
+                "depth": 0.3,
                 "type": "WPT",
                 "time": "2018-03-15T00:11:19Z",
                 "sym": "triangle"
@@ -100,7 +100,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.3,
+                "depth": 0.3,
                 "type": "WPT",
                 "time": "2018-03-14T23:07:56Z",
                 "sym": "triangle"
@@ -116,7 +116,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.3,
+                "depth": 0.3,
                 "type": "WPT",
                 "time": "2018-03-14T23:07:54Z",
                 "sym": "triangle"
@@ -132,7 +132,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.3,
+                "depth": 0.3,
                 "type": "WPT",
                 "time": "2018-03-12T11:45:21Z",
                 "sym": "triangle"
@@ -148,7 +148,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.3,
+                "depth": 0.3,
                 "type": "WPT",
                 "time": "2018-03-12T11:44:10Z",
                 "sym": "triangle"
@@ -164,7 +164,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.3,
+                "depth": 0.3,
                 "type": "WPT",
                 "time": "2018-03-12T11:42:29Z",
                 "sym": "triangle"
@@ -180,7 +180,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.4,
+                "depth": 0.4,
                 "type": "WPT",
                 "time": "2018-03-14T23:24:21Z",
                 "sym": "triangle"
@@ -196,7 +196,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.4,
+                "depth": 0.4,
                 "type": "WPT",
                 "time": "2018-03-14T23:05:34Z",
                 "sym": "triangle"
@@ -212,7 +212,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.5,
+                "depth": 0.5,
                 "type": "WPT",
                 "time": "2018-03-15T00:11:20Z",
                 "sym": "triangle"
@@ -228,7 +228,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.5,
+                "depth": 0.5,
                 "type": "WPT",
                 "time": "2018-03-14T23:28:41Z",
                 "sym": "triangle"
@@ -244,7 +244,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.5,
+                "depth": 0.5,
                 "type": "WPT",
                 "time": "2018-03-14T23:28:40Z",
                 "sym": "triangle"
@@ -260,7 +260,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.5,
+                "depth": 0.5,
                 "type": "WPT",
                 "time": "2018-03-14T23:21:33Z",
                 "sym": "triangle"
@@ -276,7 +276,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.5,
+                "depth": 0.5,
                 "type": "WPT",
                 "time": "2018-03-14T23:08:54Z",
                 "sym": "triangle"
@@ -292,7 +292,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.5,
+                "depth": 0.5,
                 "type": "WPT",
                 "time": "2018-03-14T23:08:23Z",
                 "sym": "triangle"
@@ -308,7 +308,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.5,
+                "depth": 0.5,
                 "type": "WPT",
                 "time": "2018-03-14T23:05:37Z",
                 "sym": "triangle"
@@ -324,7 +324,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.5,
+                "depth": 0.5,
                 "type": "WPT",
                 "time": "2018-03-14T23:05:32Z",
                 "sym": "triangle"
@@ -340,7 +340,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.5,
+                "depth": 0.5,
                 "type": "WPT",
                 "time": "2018-03-14T23:05:31Z",
                 "sym": "triangle"
@@ -356,7 +356,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.5,
+                "depth": 0.5,
                 "type": "WPT",
                 "time": "2018-03-14T23:04:39Z",
                 "sym": "triangle"
@@ -372,7 +372,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.5,
+                "depth": 0.5,
                 "type": "WPT",
                 "time": "2018-03-14T23:04:07Z",
                 "sym": "triangle"
@@ -388,7 +388,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.6,
+                "depth": 0.6,
                 "type": "WPT",
                 "time": "2018-03-14T23:31:47Z",
                 "sym": "triangle"
@@ -404,7 +404,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.6,
+                "depth": 0.6,
                 "type": "WPT",
                 "time": "2018-03-14T23:22:14Z",
                 "sym": "triangle"
@@ -420,7 +420,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.6,
+                "depth": 0.6,
                 "type": "WPT",
                 "time": "2018-03-14T23:08:53Z",
                 "sym": "triangle"
@@ -436,7 +436,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.6,
+                "depth": 0.6,
                 "type": "WPT",
                 "time": "2018-03-14T23:08:47Z",
                 "sym": "triangle"
@@ -452,7 +452,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.6,
+                "depth": 0.6,
                 "type": "WPT",
                 "time": "2018-03-14T23:07:52Z",
                 "sym": "triangle"
@@ -468,7 +468,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.6,
+                "depth": 0.6,
                 "type": "WPT",
                 "time": "2018-03-14T23:07:51Z",
                 "sym": "triangle"
@@ -484,7 +484,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.6,
+                "depth": 0.6,
                 "type": "WPT",
                 "time": "2018-03-14T23:05:36Z",
                 "sym": "triangle"
@@ -500,7 +500,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.6,
+                "depth": 0.6,
                 "type": "WPT",
                 "time": "2018-03-14T23:05:28Z",
                 "sym": "triangle"
@@ -516,7 +516,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.7,
+                "depth": 0.7,
                 "type": "WPT",
                 "time": "2018-03-14T23:28:39Z",
                 "sym": "triangle"
@@ -532,7 +532,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.7,
+                "depth": 0.7,
                 "type": "WPT",
                 "time": "2018-03-14T23:28:37Z",
                 "sym": "triangle"
@@ -548,7 +548,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.7,
+                "depth": 0.7,
                 "type": "WPT",
                 "time": "2018-03-14T23:21:31Z",
                 "sym": "triangle"
@@ -564,7 +564,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.7,
+                "depth": 0.7,
                 "type": "WPT",
                 "time": "2018-03-14T23:21:29Z",
                 "sym": "triangle"
@@ -580,7 +580,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.7,
+                "depth": 0.7,
                 "type": "WPT",
                 "time": "2018-03-14T23:21:20Z",
                 "sym": "triangle"
@@ -596,7 +596,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.7,
+                "depth": 0.7,
                 "type": "WPT",
                 "time": "2018-03-14T23:21:18Z",
                 "sym": "triangle"
@@ -612,7 +612,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.7,
+                "depth": 0.7,
                 "type": "WPT",
                 "time": "2018-03-14T23:21:17Z",
                 "sym": "triangle"
@@ -628,7 +628,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.7,
+                "depth": 0.7,
                 "type": "WPT",
                 "time": "2018-03-14T23:05:40Z",
                 "sym": "triangle"
@@ -644,7 +644,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.7,
+                "depth": 0.7,
                 "type": "WPT",
                 "time": "2018-03-14T23:04:30Z",
                 "sym": "triangle"
@@ -660,7 +660,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.7,
+                "depth": 0.7,
                 "type": "WPT",
                 "time": "2018-03-12T11:43:12Z",
                 "sym": "triangle"
@@ -676,7 +676,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.8,
+                "depth": 0.8,
                 "type": "WPT",
                 "time": "2018-03-15T00:19:01Z",
                 "sym": "triangle"
@@ -692,7 +692,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.8,
+                "depth": 0.8,
                 "type": "WPT",
                 "time": "2018-03-14T23:55:52Z",
                 "sym": "triangle"
@@ -708,7 +708,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.8,
+                "depth": 0.8,
                 "type": "WPT",
                 "time": "2018-03-14T23:55:40Z",
                 "sym": "triangle"
@@ -724,7 +724,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.8,
+                "depth": 0.8,
                 "type": "WPT",
                 "time": "2018-03-14T23:31:52Z",
                 "sym": "triangle"
@@ -740,7 +740,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.8,
+                "depth": 0.8,
                 "type": "WPT",
                 "time": "2018-03-14T23:28:36Z",
                 "sym": "triangle"
@@ -756,7 +756,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.8,
+                "depth": 0.8,
                 "type": "WPT",
                 "time": "2018-03-14T23:22:13Z",
                 "sym": "triangle"
@@ -772,7 +772,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.8,
+                "depth": 0.8,
                 "type": "WPT",
                 "time": "2018-03-14T23:20:57Z",
                 "sym": "triangle"
@@ -788,7 +788,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.8,
+                "depth": 0.8,
                 "type": "WPT",
                 "time": "2018-03-14T23:07:48Z",
                 "sym": "triangle"
@@ -804,7 +804,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.8,
+                "depth": 0.8,
                 "type": "WPT",
                 "time": "2018-03-14T23:05:42Z",
                 "sym": "triangle"
@@ -820,7 +820,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.8,
+                "depth": 0.8,
                 "type": "WPT",
                 "time": "2018-03-14T23:05:27Z",
                 "sym": "triangle"
@@ -836,7 +836,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.8,
+                "depth": 0.8,
                 "type": "WPT",
                 "time": "2018-03-12T11:42:31Z",
                 "sym": "triangle"
@@ -852,7 +852,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.9,
+                "depth": 0.9,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:57Z",
                 "sym": "triangle"
@@ -868,7 +868,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.9,
+                "depth": 0.9,
                 "type": "WPT",
                 "time": "2018-03-14T23:28:28Z",
                 "sym": "triangle"
@@ -884,7 +884,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.9,
+                "depth": 0.9,
                 "type": "WPT",
                 "time": "2018-03-14T23:05:50Z",
                 "sym": "triangle"
@@ -900,7 +900,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.9,
+                "depth": 0.9,
                 "type": "WPT",
                 "time": "2018-03-14T23:05:48Z",
                 "sym": "triangle"
@@ -916,7 +916,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.9,
+                "depth": 0.9,
                 "type": "WPT",
                 "time": "2018-03-14T23:05:44Z",
                 "sym": "triangle"
@@ -932,7 +932,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 0.9,
+                "depth": 0.9,
                 "type": "WPT",
                 "time": "2018-03-12T11:43:10Z",
                 "sym": "triangle"
@@ -948,7 +948,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:39:43Z",
                 "sym": "triangle"
@@ -964,7 +964,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:39:42Z",
                 "sym": "triangle"
@@ -980,7 +980,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:39:40Z",
                 "sym": "triangle"
@@ -996,7 +996,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:39:39Z",
                 "sym": "triangle"
@@ -1012,7 +1012,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:39:35Z",
                 "sym": "triangle"
@@ -1028,7 +1028,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:39:34Z",
                 "sym": "triangle"
@@ -1044,7 +1044,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:39:33Z",
                 "sym": "triangle"
@@ -1060,7 +1060,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:39:32Z",
                 "sym": "triangle"
@@ -1076,7 +1076,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:39:31Z",
                 "sym": "triangle"
@@ -1092,7 +1092,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:39:30Z",
                 "sym": "triangle"
@@ -1108,7 +1108,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:39:29Z",
                 "sym": "triangle"
@@ -1124,7 +1124,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:39:24Z",
                 "sym": "triangle"
@@ -1140,7 +1140,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:39:23Z",
                 "sym": "triangle"
@@ -1156,7 +1156,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:39:21Z",
                 "sym": "triangle"
@@ -1172,7 +1172,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:39:19Z",
                 "sym": "triangle"
@@ -1188,7 +1188,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:38:52Z",
                 "sym": "triangle"
@@ -1204,7 +1204,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:38:47Z",
                 "sym": "triangle"
@@ -1220,7 +1220,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:38:46Z",
                 "sym": "triangle"
@@ -1236,7 +1236,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:38:45Z",
                 "sym": "triangle"
@@ -1252,7 +1252,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:38:43Z",
                 "sym": "triangle"
@@ -1268,7 +1268,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:38:42Z",
                 "sym": "triangle"
@@ -1284,7 +1284,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:38:41Z",
                 "sym": "triangle"
@@ -1300,7 +1300,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:38:33Z",
                 "sym": "triangle"
@@ -1316,7 +1316,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:38:32Z",
                 "sym": "triangle"
@@ -1332,7 +1332,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:38:31Z",
                 "sym": "triangle"
@@ -1348,7 +1348,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:38:15Z",
                 "sym": "triangle"
@@ -1364,7 +1364,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:38:12Z",
                 "sym": "triangle"
@@ -1380,7 +1380,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:38:12Z",
                 "sym": "triangle"
@@ -1396,7 +1396,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:38:06Z",
                 "sym": "triangle"
@@ -1412,7 +1412,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:38:05Z",
                 "sym": "triangle"
@@ -1428,7 +1428,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:38:03Z",
                 "sym": "triangle"
@@ -1444,7 +1444,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:38:01Z",
                 "sym": "triangle"
@@ -1460,7 +1460,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:37:59Z",
                 "sym": "triangle"
@@ -1476,7 +1476,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:37:52Z",
                 "sym": "triangle"
@@ -1492,7 +1492,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:37:51Z",
                 "sym": "triangle"
@@ -1508,7 +1508,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:31:33Z",
                 "sym": "triangle"
@@ -1524,7 +1524,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:31:32Z",
                 "sym": "triangle"
@@ -1540,7 +1540,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:31:31Z",
                 "sym": "triangle"
@@ -1556,7 +1556,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:31:29Z",
                 "sym": "triangle"
@@ -1572,7 +1572,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:31:27Z",
                 "sym": "triangle"
@@ -1588,7 +1588,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:31:25Z",
                 "sym": "triangle"
@@ -1604,7 +1604,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:31:25Z",
                 "sym": "triangle"
@@ -1620,7 +1620,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:31:23Z",
                 "sym": "triangle"
@@ -1636,7 +1636,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:31:22Z",
                 "sym": "triangle"
@@ -1652,7 +1652,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:31:21Z",
                 "sym": "triangle"
@@ -1668,7 +1668,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:31:20Z",
                 "sym": "triangle"
@@ -1684,7 +1684,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:31:19Z",
                 "sym": "triangle"
@@ -1700,7 +1700,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:31:18Z",
                 "sym": "triangle"
@@ -1716,7 +1716,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:31:16Z",
                 "sym": "triangle"
@@ -1732,7 +1732,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:31:11Z",
                 "sym": "triangle"
@@ -1748,7 +1748,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:31:09Z",
                 "sym": "triangle"
@@ -1764,7 +1764,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:31:05Z",
                 "sym": "triangle"
@@ -1780,7 +1780,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:31:04Z",
                 "sym": "triangle"
@@ -1796,7 +1796,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:31:01Z",
                 "sym": "triangle"
@@ -1812,7 +1812,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:31:01Z",
                 "sym": "triangle"
@@ -1828,7 +1828,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:30:57Z",
                 "sym": "triangle"
@@ -1844,7 +1844,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:30:56Z",
                 "sym": "triangle"
@@ -1860,7 +1860,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:30:55Z",
                 "sym": "triangle"
@@ -1876,7 +1876,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:30:53Z",
                 "sym": "triangle"
@@ -1892,7 +1892,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:30:51Z",
                 "sym": "triangle"
@@ -1908,7 +1908,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:30:50Z",
                 "sym": "triangle"
@@ -1924,7 +1924,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:30:49Z",
                 "sym": "triangle"
@@ -1940,7 +1940,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:30:46Z",
                 "sym": "triangle"
@@ -1956,7 +1956,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:30:44Z",
                 "sym": "triangle"
@@ -1972,7 +1972,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:30:33Z",
                 "sym": "triangle"
@@ -1988,7 +1988,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:30:32Z",
                 "sym": "triangle"
@@ -2004,7 +2004,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:30:30Z",
                 "sym": "triangle"
@@ -2020,7 +2020,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:29:40Z",
                 "sym": "triangle"
@@ -2036,7 +2036,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:29:38Z",
                 "sym": "triangle"
@@ -2052,7 +2052,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:29:36Z",
                 "sym": "triangle"
@@ -2068,7 +2068,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:29:35Z",
                 "sym": "triangle"
@@ -2084,7 +2084,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:29:33Z",
                 "sym": "triangle"
@@ -2100,7 +2100,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:29:32Z",
                 "sym": "triangle"
@@ -2116,7 +2116,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:29:32Z",
                 "sym": "triangle"
@@ -2132,7 +2132,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:29:30Z",
                 "sym": "triangle"
@@ -2148,7 +2148,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:29:29Z",
                 "sym": "triangle"
@@ -2164,7 +2164,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:29:28Z",
                 "sym": "triangle"
@@ -2180,7 +2180,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:29:26Z",
                 "sym": "triangle"
@@ -2196,7 +2196,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:27:32Z",
                 "sym": "triangle"
@@ -2212,7 +2212,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:27:31Z",
                 "sym": "triangle"
@@ -2228,7 +2228,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:27:30Z",
                 "sym": "triangle"
@@ -2244,7 +2244,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:27:29Z",
                 "sym": "triangle"
@@ -2260,7 +2260,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:27:28Z",
                 "sym": "triangle"
@@ -2276,7 +2276,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:27:27Z",
                 "sym": "triangle"
@@ -2292,7 +2292,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:27:26Z",
                 "sym": "triangle"
@@ -2308,7 +2308,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:27:25Z",
                 "sym": "triangle"
@@ -2324,7 +2324,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:27:24Z",
                 "sym": "triangle"
@@ -2340,7 +2340,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:27:24Z",
                 "sym": "triangle"
@@ -2356,7 +2356,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:25:45Z",
                 "sym": "triangle"
@@ -2372,7 +2372,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:25:43Z",
                 "sym": "triangle"
@@ -2388,7 +2388,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:25:42Z",
                 "sym": "triangle"
@@ -2404,7 +2404,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:25:41Z",
                 "sym": "triangle"
@@ -2420,7 +2420,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:25:37Z",
                 "sym": "triangle"
@@ -2436,7 +2436,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:10:06Z",
                 "sym": "triangle"
@@ -2452,7 +2452,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:10:05Z",
                 "sym": "triangle"
@@ -2468,7 +2468,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:10:04Z",
                 "sym": "triangle"
@@ -2484,7 +2484,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:10:03Z",
                 "sym": "triangle"
@@ -2500,7 +2500,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:10:01Z",
                 "sym": "triangle"
@@ -2516,7 +2516,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:10:00Z",
                 "sym": "triangle"
@@ -2532,7 +2532,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:09:59Z",
                 "sym": "triangle"
@@ -2548,7 +2548,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:09:57Z",
                 "sym": "triangle"
@@ -2564,7 +2564,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:04:45Z",
                 "sym": "triangle"
@@ -2580,7 +2580,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:02:57Z",
                 "sym": "triangle"
@@ -2596,7 +2596,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:02:49Z",
                 "sym": "triangle"
@@ -2612,7 +2612,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:02:48Z",
                 "sym": "triangle"
@@ -2628,7 +2628,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:02:47Z",
                 "sym": "triangle"
@@ -2644,7 +2644,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:02:45Z",
                 "sym": "triangle"
@@ -2660,7 +2660,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:02:42Z",
                 "sym": "triangle"
@@ -2676,7 +2676,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:02:41Z",
                 "sym": "triangle"
@@ -2692,7 +2692,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:02:40Z",
                 "sym": "triangle"
@@ -2708,7 +2708,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:02:36Z",
                 "sym": "triangle"
@@ -2724,7 +2724,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:02:34Z",
                 "sym": "triangle"
@@ -2740,7 +2740,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:02:32Z",
                 "sym": "triangle"
@@ -2756,7 +2756,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:02:30Z",
                 "sym": "triangle"
@@ -2772,7 +2772,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:02:28Z",
                 "sym": "triangle"
@@ -2788,7 +2788,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:02:27Z",
                 "sym": "triangle"
@@ -2804,7 +2804,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:02:26Z",
                 "sym": "triangle"
@@ -2820,7 +2820,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:02:18Z",
                 "sym": "triangle"
@@ -2836,7 +2836,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:02:17Z",
                 "sym": "triangle"
@@ -2852,7 +2852,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:02:16Z",
                 "sym": "triangle"
@@ -2868,7 +2868,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:02:11Z",
                 "sym": "triangle"
@@ -2884,7 +2884,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:02:09Z",
                 "sym": "triangle"
@@ -2900,7 +2900,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:02:07Z",
                 "sym": "triangle"
@@ -2916,7 +2916,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:02:05Z",
                 "sym": "triangle"
@@ -2932,7 +2932,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:02:04Z",
                 "sym": "triangle"
@@ -2948,7 +2948,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:02:03Z",
                 "sym": "triangle"
@@ -2964,7 +2964,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:02:00Z",
                 "sym": "triangle"
@@ -2980,7 +2980,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:01:58Z",
                 "sym": "triangle"
@@ -2996,7 +2996,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:01:57Z",
                 "sym": "triangle"
@@ -3012,7 +3012,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:01:55Z",
                 "sym": "triangle"
@@ -3028,7 +3028,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:01:53Z",
                 "sym": "triangle"
@@ -3044,7 +3044,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:01:51Z",
                 "sym": "triangle"
@@ -3060,7 +3060,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:01:48Z",
                 "sym": "triangle"
@@ -3076,7 +3076,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:01:47Z",
                 "sym": "triangle"
@@ -3092,7 +3092,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:01:46Z",
                 "sym": "triangle"
@@ -3108,7 +3108,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:01:44Z",
                 "sym": "triangle"
@@ -3124,7 +3124,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:01:40Z",
                 "sym": "triangle"
@@ -3140,7 +3140,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:01:39Z",
                 "sym": "triangle"
@@ -3156,7 +3156,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:01:36Z",
                 "sym": "triangle"
@@ -3172,7 +3172,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:01:31Z",
                 "sym": "triangle"
@@ -3188,7 +3188,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:01:30Z",
                 "sym": "triangle"
@@ -3204,7 +3204,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:01:27Z",
                 "sym": "triangle"
@@ -3220,7 +3220,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-14T23:58:03Z",
                 "sym": "triangle"
@@ -3236,7 +3236,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-14T23:57:56Z",
                 "sym": "triangle"
@@ -3252,7 +3252,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-14T23:57:44Z",
                 "sym": "triangle"
@@ -3268,7 +3268,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-14T23:57:30Z",
                 "sym": "triangle"
@@ -3284,7 +3284,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-14T23:57:21Z",
                 "sym": "triangle"
@@ -3300,7 +3300,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-14T23:55:47Z",
                 "sym": "triangle"
@@ -3316,7 +3316,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-14T23:55:44Z",
                 "sym": "triangle"
@@ -3332,7 +3332,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-14T23:32:17Z",
                 "sym": "triangle"
@@ -3348,7 +3348,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-14T23:32:03Z",
                 "sym": "triangle"
@@ -3364,7 +3364,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-14T23:28:48Z",
                 "sym": "triangle"
@@ -3380,7 +3380,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-14T23:28:45Z",
                 "sym": "triangle"
@@ -3396,7 +3396,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-14T23:22:26Z",
                 "sym": "triangle"
@@ -3412,7 +3412,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-14T23:22:22Z",
                 "sym": "triangle"
@@ -3428,7 +3428,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-14T23:21:54Z",
                 "sym": "triangle"
@@ -3444,7 +3444,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-14T23:21:51Z",
                 "sym": "triangle"
@@ -3460,7 +3460,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-14T23:21:49Z",
                 "sym": "triangle"
@@ -3476,7 +3476,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-14T23:21:35Z",
                 "sym": "triangle"
@@ -3492,7 +3492,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-14T23:21:27Z",
                 "sym": "triangle"
@@ -3508,7 +3508,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-14T23:21:22Z",
                 "sym": "triangle"
@@ -3524,7 +3524,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-14T23:08:32Z",
                 "sym": "triangle"
@@ -3540,7 +3540,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-14T23:08:31Z",
                 "sym": "triangle"
@@ -3556,7 +3556,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-14T23:05:46Z",
                 "sym": "triangle"
@@ -3572,7 +3572,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-14T23:04:24Z",
                 "sym": "triangle"
@@ -3588,7 +3588,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-14T23:01:29Z",
                 "sym": "triangle"
@@ -3604,7 +3604,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-12T11:43:33Z",
                 "sym": "triangle"
@@ -3620,7 +3620,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-12T11:43:23Z",
                 "sym": "triangle"
@@ -3636,7 +3636,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1,
+                "depth": 1,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:25Z",
                 "sym": "triangle"
@@ -3652,7 +3652,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.1,
+                "depth": 1.1,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:28Z",
                 "sym": "triangle"
@@ -3668,7 +3668,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.1,
+                "depth": 1.1,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:27Z",
                 "sym": "triangle"
@@ -3684,7 +3684,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.1,
+                "depth": 1.1,
                 "type": "WPT",
                 "time": "2018-03-15T00:11:22Z",
                 "sym": "triangle"
@@ -3700,7 +3700,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.1,
+                "depth": 1.1,
                 "type": "WPT",
                 "time": "2018-03-14T23:55:57Z",
                 "sym": "triangle"
@@ -3716,7 +3716,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.1,
+                "depth": 1.1,
                 "type": "WPT",
                 "time": "2018-03-14T23:55:41Z",
                 "sym": "triangle"
@@ -3732,7 +3732,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.1,
+                "depth": 1.1,
                 "type": "WPT",
                 "time": "2018-03-14T23:32:22Z",
                 "sym": "triangle"
@@ -3748,7 +3748,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.1,
+                "depth": 1.1,
                 "type": "WPT",
                 "time": "2018-03-14T23:28:27Z",
                 "sym": "triangle"
@@ -3764,7 +3764,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.1,
+                "depth": 1.1,
                 "type": "WPT",
                 "time": "2018-03-14T23:28:24Z",
                 "sym": "triangle"
@@ -3780,7 +3780,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.1,
+                "depth": 1.1,
                 "type": "WPT",
                 "time": "2018-03-14T23:27:57Z",
                 "sym": "triangle"
@@ -3796,7 +3796,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.1,
+                "depth": 1.1,
                 "type": "WPT",
                 "time": "2018-03-14T23:22:20Z",
                 "sym": "triangle"
@@ -3812,7 +3812,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.1,
+                "depth": 1.1,
                 "type": "WPT",
                 "time": "2018-03-14T23:22:19Z",
                 "sym": "triangle"
@@ -3828,7 +3828,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.1,
+                "depth": 1.1,
                 "type": "WPT",
                 "time": "2018-03-14T23:22:09Z",
                 "sym": "triangle"
@@ -3844,7 +3844,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.1,
+                "depth": 1.1,
                 "type": "WPT",
                 "time": "2018-03-14T23:22:08Z",
                 "sym": "triangle"
@@ -3860,7 +3860,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.1,
+                "depth": 1.1,
                 "type": "WPT",
                 "time": "2018-03-14T23:22:06Z",
                 "sym": "triangle"
@@ -3876,7 +3876,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.1,
+                "depth": 1.1,
                 "type": "WPT",
                 "time": "2018-03-14T23:22:03Z",
                 "sym": "triangle"
@@ -3892,7 +3892,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.1,
+                "depth": 1.1,
                 "type": "WPT",
                 "time": "2018-03-12T11:43:42Z",
                 "sym": "triangle"
@@ -3908,7 +3908,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.2,
+                "depth": 1.2,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:29Z",
                 "sym": "triangle"
@@ -3924,7 +3924,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.2,
+                "depth": 1.2,
                 "type": "WPT",
                 "time": "2018-03-15T00:11:30Z",
                 "sym": "triangle"
@@ -3940,7 +3940,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.2,
+                "depth": 1.2,
                 "type": "WPT",
                 "time": "2018-03-15T00:11:26Z",
                 "sym": "triangle"
@@ -3956,7 +3956,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.2,
+                "depth": 1.2,
                 "type": "WPT",
                 "time": "2018-03-15T00:09:51Z",
                 "sym": "triangle"
@@ -3972,7 +3972,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.2,
+                "depth": 1.2,
                 "type": "WPT",
                 "time": "2018-03-14T23:55:56Z",
                 "sym": "triangle"
@@ -3988,7 +3988,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.2,
+                "depth": 1.2,
                 "type": "WPT",
                 "time": "2018-03-14T23:31:05Z",
                 "sym": "triangle"
@@ -4004,7 +4004,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.2,
+                "depth": 1.2,
                 "type": "WPT",
                 "time": "2018-03-14T23:28:23Z",
                 "sym": "triangle"
@@ -4020,7 +4020,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.2,
+                "depth": 1.2,
                 "type": "WPT",
                 "time": "2018-03-14T23:28:12Z",
                 "sym": "triangle"
@@ -4036,7 +4036,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.2,
+                "depth": 1.2,
                 "type": "WPT",
                 "time": "2018-03-14T23:28:09Z",
                 "sym": "triangle"
@@ -4052,7 +4052,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.2,
+                "depth": 1.2,
                 "type": "WPT",
                 "time": "2018-03-14T23:27:34Z",
                 "sym": "triangle"
@@ -4068,7 +4068,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.2,
+                "depth": 1.2,
                 "type": "WPT",
                 "time": "2018-03-14T23:27:21Z",
                 "sym": "triangle"
@@ -4084,7 +4084,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.2,
+                "depth": 1.2,
                 "type": "WPT",
                 "time": "2018-03-14T23:22:05Z",
                 "sym": "triangle"
@@ -4100,7 +4100,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.2,
+                "depth": 1.2,
                 "type": "WPT",
                 "time": "2018-03-14T23:21:39Z",
                 "sym": "triangle"
@@ -4116,7 +4116,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.3,
+                "depth": 1.3,
                 "type": "WPT",
                 "time": "2018-03-15T00:21:29Z",
                 "sym": "triangle"
@@ -4132,7 +4132,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.3,
+                "depth": 1.3,
                 "type": "WPT",
                 "time": "2018-03-15T00:19:37Z",
                 "sym": "triangle"
@@ -4148,7 +4148,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.3,
+                "depth": 1.3,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:30Z",
                 "sym": "triangle"
@@ -4164,7 +4164,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.3,
+                "depth": 1.3,
                 "type": "WPT",
                 "time": "2018-03-15T00:11:32Z",
                 "sym": "triangle"
@@ -4180,7 +4180,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.3,
+                "depth": 1.3,
                 "type": "WPT",
                 "time": "2018-03-14T23:55:43Z",
                 "sym": "triangle"
@@ -4196,7 +4196,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.3,
+                "depth": 1.3,
                 "type": "WPT",
                 "time": "2018-03-14T23:28:25Z",
                 "sym": "triangle"
@@ -4212,7 +4212,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.3,
+                "depth": 1.3,
                 "type": "WPT",
                 "time": "2018-03-14T23:28:06Z",
                 "sym": "triangle"
@@ -4228,7 +4228,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.3,
+                "depth": 1.3,
                 "type": "WPT",
                 "time": "2018-03-14T23:27:39Z",
                 "sym": "triangle"
@@ -4244,7 +4244,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.3,
+                "depth": 1.3,
                 "type": "WPT",
                 "time": "2018-03-14T23:22:01Z",
                 "sym": "triangle"
@@ -4260,7 +4260,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.3,
+                "depth": 1.3,
                 "type": "WPT",
                 "time": "2018-03-14T23:21:57Z",
                 "sym": "triangle"
@@ -4276,7 +4276,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.3,
+                "depth": 1.3,
                 "type": "WPT",
                 "time": "2018-03-14T23:21:37Z",
                 "sym": "triangle"
@@ -4292,7 +4292,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.3,
+                "depth": 1.3,
                 "type": "WPT",
                 "time": "2018-03-14T23:08:33Z",
                 "sym": "triangle"
@@ -4308,7 +4308,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.3,
+                "depth": 1.3,
                 "type": "WPT",
                 "time": "2018-03-12T11:43:25Z",
                 "sym": "triangle"
@@ -4324,7 +4324,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.4,
+                "depth": 1.4,
                 "type": "WPT",
                 "time": "2018-03-15T00:19:33Z",
                 "sym": "triangle"
@@ -4340,7 +4340,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.4,
+                "depth": 1.4,
                 "type": "WPT",
                 "time": "2018-03-15T00:19:30Z",
                 "sym": "triangle"
@@ -4356,7 +4356,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.4,
+                "depth": 1.4,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:55Z",
                 "sym": "triangle"
@@ -4372,7 +4372,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.4,
+                "depth": 1.4,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:54Z",
                 "sym": "triangle"
@@ -4388,7 +4388,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.4,
+                "depth": 1.4,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:36Z",
                 "sym": "triangle"
@@ -4404,7 +4404,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.4,
+                "depth": 1.4,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:31Z",
                 "sym": "triangle"
@@ -4420,7 +4420,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.4,
+                "depth": 1.4,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:26Z",
                 "sym": "triangle"
@@ -4436,7 +4436,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.4,
+                "depth": 1.4,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:23Z",
                 "sym": "triangle"
@@ -4452,7 +4452,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.4,
+                "depth": 1.4,
                 "type": "WPT",
                 "time": "2018-03-15T00:11:36Z",
                 "sym": "triangle"
@@ -4468,7 +4468,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.4,
+                "depth": 1.4,
                 "type": "WPT",
                 "time": "2018-03-15T00:11:33Z",
                 "sym": "triangle"
@@ -4484,7 +4484,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.4,
+                "depth": 1.4,
                 "type": "WPT",
                 "time": "2018-03-15T00:11:25Z",
                 "sym": "triangle"
@@ -4500,7 +4500,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.4,
+                "depth": 1.4,
                 "type": "WPT",
                 "time": "2018-03-14T23:56:04Z",
                 "sym": "triangle"
@@ -4516,7 +4516,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.4,
+                "depth": 1.4,
                 "type": "WPT",
                 "time": "2018-03-14T23:55:46Z",
                 "sym": "triangle"
@@ -4532,7 +4532,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.4,
+                "depth": 1.4,
                 "type": "WPT",
                 "time": "2018-03-14T23:32:35Z",
                 "sym": "triangle"
@@ -4548,7 +4548,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.4,
+                "depth": 1.4,
                 "type": "WPT",
                 "time": "2018-03-14T23:28:13Z",
                 "sym": "triangle"
@@ -4564,7 +4564,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.4,
+                "depth": 1.4,
                 "type": "WPT",
                 "time": "2018-03-14T23:28:03Z",
                 "sym": "triangle"
@@ -4580,7 +4580,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.4,
+                "depth": 1.4,
                 "type": "WPT",
                 "time": "2018-03-14T23:28:00Z",
                 "sym": "triangle"
@@ -4596,7 +4596,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.4,
+                "depth": 1.4,
                 "type": "WPT",
                 "time": "2018-03-14T23:21:55Z",
                 "sym": "triangle"
@@ -4612,7 +4612,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.5,
+                "depth": 1.5,
                 "type": "WPT",
                 "time": "2018-03-15T00:19:36Z",
                 "sym": "triangle"
@@ -4628,7 +4628,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.5,
+                "depth": 1.5,
                 "type": "WPT",
                 "time": "2018-03-15T00:19:34Z",
                 "sym": "triangle"
@@ -4644,7 +4644,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.5,
+                "depth": 1.5,
                 "type": "WPT",
                 "time": "2018-03-15T00:19:31Z",
                 "sym": "triangle"
@@ -4660,7 +4660,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.5,
+                "depth": 1.5,
                 "type": "WPT",
                 "time": "2018-03-15T00:19:24Z",
                 "sym": "triangle"
@@ -4676,7 +4676,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.5,
+                "depth": 1.5,
                 "type": "WPT",
                 "time": "2018-03-15T00:19:22Z",
                 "sym": "triangle"
@@ -4692,7 +4692,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.5,
+                "depth": 1.5,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:53Z",
                 "sym": "triangle"
@@ -4708,7 +4708,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.5,
+                "depth": 1.5,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:51Z",
                 "sym": "triangle"
@@ -4724,7 +4724,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.5,
+                "depth": 1.5,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:50Z",
                 "sym": "triangle"
@@ -4740,7 +4740,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.5,
+                "depth": 1.5,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:42Z",
                 "sym": "triangle"
@@ -4756,7 +4756,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.5,
+                "depth": 1.5,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:41Z",
                 "sym": "triangle"
@@ -4772,7 +4772,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.5,
+                "depth": 1.5,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:39Z",
                 "sym": "triangle"
@@ -4788,7 +4788,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.5,
+                "depth": 1.5,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:38Z",
                 "sym": "triangle"
@@ -4804,7 +4804,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.5,
+                "depth": 1.5,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:37Z",
                 "sym": "triangle"
@@ -4820,7 +4820,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.5,
+                "depth": 1.5,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:22Z",
                 "sym": "triangle"
@@ -4836,7 +4836,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.5,
+                "depth": 1.5,
                 "type": "WPT",
                 "time": "2018-03-15T00:11:29Z",
                 "sym": "triangle"
@@ -4852,7 +4852,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.5,
+                "depth": 1.5,
                 "type": "WPT",
                 "time": "2018-03-15T00:09:57Z",
                 "sym": "triangle"
@@ -4868,7 +4868,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.5,
+                "depth": 1.5,
                 "type": "WPT",
                 "time": "2018-03-14T23:56:00Z",
                 "sym": "triangle"
@@ -4884,7 +4884,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.5,
+                "depth": 1.5,
                 "type": "WPT",
                 "time": "2018-03-14T23:28:10Z",
                 "sym": "triangle"
@@ -4900,7 +4900,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.5,
+                "depth": 1.5,
                 "type": "WPT",
                 "time": "2018-03-14T23:28:07Z",
                 "sym": "triangle"
@@ -4916,7 +4916,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.5,
+                "depth": 1.5,
                 "type": "WPT",
                 "time": "2018-03-14T23:28:04Z",
                 "sym": "triangle"
@@ -4932,7 +4932,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.6,
+                "depth": 1.6,
                 "type": "WPT",
                 "time": "2018-03-15T00:19:29Z",
                 "sym": "triangle"
@@ -4948,7 +4948,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.6,
+                "depth": 1.6,
                 "type": "WPT",
                 "time": "2018-03-15T00:19:27Z",
                 "sym": "triangle"
@@ -4964,7 +4964,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.6,
+                "depth": 1.6,
                 "type": "WPT",
                 "time": "2018-03-15T00:19:26Z",
                 "sym": "triangle"
@@ -4980,7 +4980,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.6,
+                "depth": 1.6,
                 "type": "WPT",
                 "time": "2018-03-15T00:19:20Z",
                 "sym": "triangle"
@@ -4996,7 +4996,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.6,
+                "depth": 1.6,
                 "type": "WPT",
                 "time": "2018-03-15T00:19:18Z",
                 "sym": "triangle"
@@ -5012,7 +5012,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.6,
+                "depth": 1.6,
                 "type": "WPT",
                 "time": "2018-03-15T00:19:17Z",
                 "sym": "triangle"
@@ -5028,7 +5028,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.6,
+                "depth": 1.6,
                 "type": "WPT",
                 "time": "2018-03-15T00:19:11Z",
                 "sym": "triangle"
@@ -5044,7 +5044,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.6,
+                "depth": 1.6,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:49Z",
                 "sym": "triangle"
@@ -5060,7 +5060,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.6,
+                "depth": 1.6,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:43Z",
                 "sym": "triangle"
@@ -5076,7 +5076,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.6,
+                "depth": 1.6,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:20Z",
                 "sym": "triangle"
@@ -5092,7 +5092,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.6,
+                "depth": 1.6,
                 "type": "WPT",
                 "time": "2018-03-15T00:11:24Z",
                 "sym": "triangle"
@@ -5108,7 +5108,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.6,
+                "depth": 1.6,
                 "type": "WPT",
                 "time": "2018-03-15T00:11:23Z",
                 "sym": "triangle"
@@ -5124,7 +5124,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.6,
+                "depth": 1.6,
                 "type": "WPT",
                 "time": "2018-03-15T00:11:03Z",
                 "sym": "triangle"
@@ -5140,7 +5140,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.6,
+                "depth": 1.6,
                 "type": "WPT",
                 "time": "2018-03-15T00:10:55Z",
                 "sym": "triangle"
@@ -5156,7 +5156,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.6,
+                "depth": 1.6,
                 "type": "WPT",
                 "time": "2018-03-15T00:09:53Z",
                 "sym": "triangle"
@@ -5172,7 +5172,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.6,
+                "depth": 1.6,
                 "type": "WPT",
                 "time": "2018-03-15T00:07:19Z",
                 "sym": "triangle"
@@ -5188,7 +5188,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.6,
+                "depth": 1.6,
                 "type": "WPT",
                 "time": "2018-03-14T23:56:06Z",
                 "sym": "triangle"
@@ -5204,7 +5204,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.6,
+                "depth": 1.6,
                 "type": "WPT",
                 "time": "2018-03-14T23:56:03Z",
                 "sym": "triangle"
@@ -5220,7 +5220,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.6,
+                "depth": 1.6,
                 "type": "WPT",
                 "time": "2018-03-14T23:55:59Z",
                 "sym": "triangle"
@@ -5236,7 +5236,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.6,
+                "depth": 1.6,
                 "type": "WPT",
                 "time": "2018-03-14T23:32:43Z",
                 "sym": "triangle"
@@ -5252,7 +5252,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.6,
+                "depth": 1.6,
                 "type": "WPT",
                 "time": "2018-03-14T23:05:02Z",
                 "sym": "triangle"
@@ -5268,7 +5268,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.6,
+                "depth": 1.6,
                 "type": "WPT",
                 "time": "2018-03-14T23:02:24Z",
                 "sym": "triangle"
@@ -5284,7 +5284,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.6,
+                "depth": 1.6,
                 "type": "WPT",
                 "time": "2018-03-12T11:43:34Z",
                 "sym": "triangle"
@@ -5300,7 +5300,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.7,
+                "depth": 1.7,
                 "type": "WPT",
                 "time": "2018-03-15T00:19:15Z",
                 "sym": "triangle"
@@ -5316,7 +5316,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.7,
+                "depth": 1.7,
                 "type": "WPT",
                 "time": "2018-03-15T00:19:04Z",
                 "sym": "triangle"
@@ -5332,7 +5332,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.7,
+                "depth": 1.7,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:48Z",
                 "sym": "triangle"
@@ -5348,7 +5348,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.7,
+                "depth": 1.7,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:47Z",
                 "sym": "triangle"
@@ -5364,7 +5364,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.7,
+                "depth": 1.7,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:45Z",
                 "sym": "triangle"
@@ -5380,7 +5380,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.7,
+                "depth": 1.7,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:19Z",
                 "sym": "triangle"
@@ -5396,7 +5396,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.7,
+                "depth": 1.7,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:17Z",
                 "sym": "triangle"
@@ -5412,7 +5412,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.7,
+                "depth": 1.7,
                 "type": "WPT",
                 "time": "2018-03-15T00:11:38Z",
                 "sym": "triangle"
@@ -5428,7 +5428,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.7,
+                "depth": 1.7,
                 "type": "WPT",
                 "time": "2018-03-15T00:11:35Z",
                 "sym": "triangle"
@@ -5444,7 +5444,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.7,
+                "depth": 1.7,
                 "type": "WPT",
                 "time": "2018-03-14T23:56:07Z",
                 "sym": "triangle"
@@ -5460,7 +5460,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.7,
+                "depth": 1.7,
                 "type": "WPT",
                 "time": "2018-03-14T23:32:08Z",
                 "sym": "triangle"
@@ -5476,7 +5476,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.8,
+                "depth": 1.8,
                 "type": "WPT",
                 "time": "2018-03-15T00:19:13Z",
                 "sym": "triangle"
@@ -5492,7 +5492,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.8,
+                "depth": 1.8,
                 "type": "WPT",
                 "time": "2018-03-15T00:19:09Z",
                 "sym": "triangle"
@@ -5508,7 +5508,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.8,
+                "depth": 1.8,
                 "type": "WPT",
                 "time": "2018-03-15T00:11:39Z",
                 "sym": "triangle"
@@ -5524,7 +5524,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.8,
+                "depth": 1.8,
                 "type": "WPT",
                 "time": "2018-03-15T00:09:54Z",
                 "sym": "triangle"
@@ -5540,7 +5540,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.9,
+                "depth": 1.9,
                 "type": "WPT",
                 "time": "2018-03-15T00:19:07Z",
                 "sym": "triangle"
@@ -5556,7 +5556,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 1.9,
+                "depth": 1.9,
                 "type": "WPT",
                 "time": "2018-03-15T00:18:46Z",
                 "sym": "triangle"
@@ -5572,7 +5572,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 2,
+                "depth": 2,
                 "type": "WPT",
                 "time": "2018-03-15T00:19:08Z",
                 "sym": "triangle"
@@ -5588,7 +5588,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 2,
+                "depth": 2,
                 "type": "WPT",
                 "time": "2018-03-15T00:19:05Z",
                 "sym": "triangle"
@@ -5604,7 +5604,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 2,
+                "depth": 2,
                 "type": "WPT",
                 "time": "2018-03-15T00:00:01Z",
                 "sym": "triangle"
@@ -5620,7 +5620,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 2,
+                "depth": 2,
                 "type": "WPT",
                 "time": "2018-03-14T23:59:59Z",
                 "sym": "triangle"
@@ -5636,7 +5636,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 2,
+                "depth": 2,
                 "type": "WPT",
                 "time": "2018-03-14T23:59:57Z",
                 "sym": "triangle"
@@ -5652,7 +5652,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 2,
+                "depth": 2,
                 "type": "WPT",
                 "time": "2018-03-14T23:59:56Z",
                 "sym": "triangle"
@@ -5668,7 +5668,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 2,
+                "depth": 2,
                 "type": "WPT",
                 "time": "2018-03-14T23:59:55Z",
                 "sym": "triangle"
@@ -5684,7 +5684,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 2,
+                "depth": 2,
                 "type": "WPT",
                 "time": "2018-03-14T23:59:54Z",
                 "sym": "triangle"
@@ -5700,7 +5700,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 2,
+                "depth": 2,
                 "type": "WPT",
                 "time": "2018-03-14T23:59:52Z",
                 "sym": "triangle"
@@ -5716,7 +5716,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 2,
+                "depth": 2,
                 "type": "WPT",
                 "time": "2018-03-14T23:59:45Z",
                 "sym": "triangle"
@@ -5732,7 +5732,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 2,
+                "depth": 2,
                 "type": "WPT",
                 "time": "2018-03-14T23:59:45Z",
                 "sym": "triangle"
@@ -5748,7 +5748,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 2,
+                "depth": 2,
                 "type": "WPT",
                 "time": "2018-03-14T23:59:42Z",
                 "sym": "triangle"
@@ -5764,7 +5764,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 2,
+                "depth": 2,
                 "type": "WPT",
                 "time": "2018-03-14T23:59:40Z",
                 "sym": "triangle"
@@ -5780,7 +5780,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 2,
+                "depth": 2,
                 "type": "WPT",
                 "time": "2018-03-14T23:59:39Z",
                 "sym": "triangle"
@@ -5796,7 +5796,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 2,
+                "depth": 2,
                 "type": "WPT",
                 "time": "2018-03-14T23:59:36Z",
                 "sym": "triangle"
@@ -5812,7 +5812,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 2,
+                "depth": 2,
                 "type": "WPT",
                 "time": "2018-03-14T23:59:34Z",
                 "sym": "triangle"
@@ -5828,7 +5828,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 2,
+                "depth": 2,
                 "type": "WPT",
                 "time": "2018-03-14T23:59:33Z",
                 "sym": "triangle"
@@ -5844,7 +5844,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 2,
+                "depth": 2,
                 "type": "WPT",
                 "time": "2018-03-14T23:59:30Z",
                 "sym": "triangle"
@@ -5860,7 +5860,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 2,
+                "depth": 2,
                 "type": "WPT",
                 "time": "2018-03-14T23:59:20Z",
                 "sym": "triangle"
@@ -5876,7 +5876,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 2,
+                "depth": 2,
                 "type": "WPT",
                 "time": "2018-03-14T23:04:52Z",
                 "sym": "triangle"
@@ -5892,7 +5892,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 2,
+                "depth": 2,
                 "type": "WPT",
                 "time": "2018-03-12T11:43:45Z",
                 "sym": "triangle"
@@ -5908,7 +5908,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 2.2,
+                "depth": 2.2,
                 "type": "WPT",
                 "time": "2018-03-12T11:43:36Z",
                 "sym": "triangle"
@@ -5924,7 +5924,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 2.4,
+                "depth": 2.4,
                 "type": "WPT",
                 "time": "2018-03-12T11:43:41Z",
                 "sym": "triangle"
@@ -5940,7 +5940,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 2.5,
+                "depth": 2.5,
                 "type": "WPT",
                 "time": "2018-03-14T23:02:33Z",
                 "sym": "triangle"
@@ -5956,7 +5956,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 2.9,
+                "depth": 2.9,
                 "type": "WPT",
                 "time": "2018-03-14T23:03:23Z",
                 "sym": "triangle"
@@ -5972,7 +5972,7 @@
         {
             "type": "Feature",
             "properties": {
-                "deep": 3,
+                "depth": 3,
                 "type": "WPT",
                 "time": "2018-03-14T23:03:16Z",
                 "sym": "triangle"

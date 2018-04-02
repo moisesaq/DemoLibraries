@@ -3,14 +3,23 @@ package moises.com.demolibraries.mapbox;
 import com.google.gson.Gson;
 
 public class DeepValues {
-    private float deep;
+    private float depth;
+    private float modifiedDepth;
 
-    public float getDeep() {
-        return deep;
+    public float getDepth() {
+        return depth;
     }
 
-    public void setDeep(float deep) {
-        this.deep = deep;
+    public void setDepth(float depth) {
+        this.depth = depth;
+    }
+
+    public float getModifiedDepth() {
+        return modifiedDepth;
+    }
+
+    public void setModifiedDepth(float modifiedDepth) {
+        this.modifiedDepth = modifiedDepth;
     }
 
     @Override
