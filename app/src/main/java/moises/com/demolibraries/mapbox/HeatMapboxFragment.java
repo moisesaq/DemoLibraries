@@ -61,6 +61,7 @@ public class HeatMapboxFragment extends Fragment implements OnMapReadyCallback{
     private MapboxMap mapboxMap;
     private FeatureCollection featureCollection;
     private CircleLayer circleLayer;
+    private float increase = 0.0f;
 
     @BindView(R.id.mapView) MapView mapView;
     @BindView(R.id.bubble_seek_bar) BubbleSeekBar bubbleSeekBar;
@@ -89,16 +90,16 @@ public class HeatMapboxFragment extends Fragment implements OnMapReadyCallback{
             @Override
             public void onProgressChanged(BubbleSeekBar bubbleSeekBar, int progress, float progressFloat) {
                 //log("Progress float: " + progressFloat);
-                /*if (progressFloat != increase){
+                if (progressFloat != increase){
                     increase = progressFloat;
                     updateFeatureCollection(increase);
-                }*/
+                }
             }
 
             @Override
             public void getProgressOnActionUp(BubbleSeekBar bubbleSeekBar, int progress, float progressFloat) {
                 log("getProgressOnActionUp: " + progressFloat);
-                updateFeatureCollection(progressFloat);
+                //updateFeatureCollection(progressFloat);
             }
 
             @Override
@@ -111,8 +112,8 @@ public class HeatMapboxFragment extends Fragment implements OnMapReadyCallback{
     @Override
     public void onMapReady(MapboxMap mapboxMap) {
         this.mapboxMap = mapboxMap;
-        //addClusteredGeoJsonSource();
-        showHeatMap();
+        addClusteredGeoJsonSource();
+        //showHeatMap();
     }
 
     @Override
@@ -168,8 +169,7 @@ public class HeatMapboxFragment extends Fragment implements OnMapReadyCallback{
         mapboxMap.addSource(source);
 
         circleLayer = new CircleLayer(CIRCLE_DEEP_ID, SOURCE_DEEPS_ID);
-        circleLayer.withProperties(circleColor(getCircleColor("depth")),
-                circleRadius(15f), circleBlur(0f));
+        setPropertyToCircleLayer("depth");
         mapboxMap.addLayer(circleLayer);
         showFeatures(featureCollection);
     }
@@ -181,7 +181,7 @@ public class HeatMapboxFragment extends Fragment implements OnMapReadyCallback{
                         stop(1.4, circleColor(yellow)),
                         stop(1.5, circleColor(yellow)),
                         stop(1.6, circleColor(green)),
-                        stop(5.5, circleColor(green))
+                        stop(10.0, circleColor(green))
                 ));
     }
 
@@ -195,8 +195,12 @@ public class HeatMapboxFragment extends Fragment implements OnMapReadyCallback{
         GeoJsonSource geoJsonSource = (GeoJsonSource) mapboxMap.getSource(SOURCE_DEEPS_ID);
         if (geoJsonSource != null)
             geoJsonSource.setGeoJson(featureCollection);
-        circleLayer.setProperties(circleColor(getCircleColor("modifiedDepth")),
-                circleRadius(15f), circleBlur(0f));
+        setPropertyToCircleLayer("modifiedDepth");
+    }
+
+    private void setPropertyToCircleLayer(String propertyForColor){
+        circleLayer.setProperties(circleColor(getCircleColor(propertyForColor)),
+                circleRadius(20f), circleBlur(1f));
     }
 
     private JsonObject updateProperties(Feature feature, float numberDepth){

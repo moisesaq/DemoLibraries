@@ -1,0 +1,54 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/layoutA"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <!-- TODO: Update blank fragment layout -->
+        <TextView
+            android:id="@+id/text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:padding="@dimen/padding_max"
+            android:text="Hello Android"
+            android:textColor="@color/colorAccent"
+            android:textSize="20dp"
+            android:textStyle="normal" />
+
+        <ImageView
+            android:id="@+id/image_view"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:layout_gravity="center_horizontal"
+            android:scaleType="fitXY"
+            app:srcCompat="@mipmap/dragon_ball_z" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layoutB"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:visibility="invisible">
+
+        <!-- TODO: Update blank fragment layout -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:padding="@dimen/padding_max"
+            android:text="Hello iOS"
+            android:textColor="@color/colorAccent"
+            android:textSize="20dp"
+            android:textStyle="normal" />
+
+    </LinearLayout>
+
+</FrameLayout>

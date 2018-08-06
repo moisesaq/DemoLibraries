@@ -1,4 +1,4 @@
-package moises.com.demolibraries.jobDispatcher;
+package moises.com.demolibraries.services.jobDispatcher;
 
 import android.app.NotificationManager;
 import android.app.PendingIntent;
@@ -23,7 +23,7 @@ import moises.com.demolibraries.MainActivity;
 import moises.com.demolibraries.R;
 
 
-public class ScheduledJobService extends JobService{
+public class ScheduledJobService extends JobService {
 
     private static final String TAG = ScheduledJobService.class.getSimpleName();
 
@@ -46,7 +46,7 @@ public class ScheduledJobService extends JobService{
         return false;
     }
 
-    private void test(JobParameters jobParameters){
+    private void test(JobParameters jobParameters) {
         new Thread(new Runnable() {
             @Override
             public void run() {
@@ -71,25 +71,25 @@ public class ScheduledJobService extends JobService{
         }
     }
 
-    private void executeDelay(final JobParameters jobParameters){
+    private void executeDelay(final JobParameters jobParameters) {
         Observable.timer(3, TimeUnit.SECONDS)
                 .subscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread())
                 .subscribe(o -> this.showNotification(), this::error);
     }
 
-    private void showNotification(){
+    private void showNotification() {
         Log.e(TAG, "TEST SCHEDULERS FINISH");
-        NotificationManager notificationManager = (NotificationManager)getSystemService(Context.NOTIFICATION_SERVICE);
+        NotificationManager notificationManager = (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
         if (notificationManager != null)
             notificationManager.notify(NOTIFICATION_ID, getNotificationBuilder().build());
     }
 
-    private void error(Throwable throwable){
+    private void error(Throwable throwable) {
         Log.e(TAG, "ERROR: " + throwable.toString());
     }
 
-    private NotificationCompat.Builder getNotificationBuilder(){
+    private NotificationCompat.Builder getNotificationBuilder() {
         Uri alarmSound = RingtoneManager.getDefaultUri(RingtoneManager.TYPE_NOTIFICATION);
         return new NotificationCompat.Builder(this, NOTIFICATION_CHANNEL)
                 .setSmallIcon(R.mipmap.ic_launcher)
@@ -102,7 +102,7 @@ public class ScheduledJobService extends JobService{
                 .setContentText("Text notification");
     }
 
-    private long[] getVibrate(long time){
+    private long[] getVibrate(long time) {
         return new long[]{time, time, time, time, time};
     }
 

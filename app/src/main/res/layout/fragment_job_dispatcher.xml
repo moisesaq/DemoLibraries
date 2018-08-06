@@ -3,27 +3,29 @@
      android:layout_height="match_parent">
 
     <LinearLayout
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:orientation="horizontal">
+        android:orientation="horizontal"
+        android:layout_margin="10dp"
+        android:layout_gravity="center_horizontal">
 
         <Button
             android:id="@+id/btn_start"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Start job" />
+            android:text="Start work" />
 
         <Button
             android:id="@+id/btn_update"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Update job" />
+            android:text="Update work" />
 
         <Button
             android:id="@+id/btn_stop"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Stop job" />
+            android:text="Stop work" />
     </LinearLayout>
 
     <TextView

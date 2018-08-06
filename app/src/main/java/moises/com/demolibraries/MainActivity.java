@@ -1,16 +1,12 @@
 package moises.com.demolibraries;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.Unbinder;
-import moises.com.demolibraries.butter.ButterFragment;
-import moises.com.demolibraries.lottie.LottieFragment;
-import moises.com.demolibraries.mapbox.HeatMapboxFragment;
-import moises.com.demolibraries.rxjava.RxJavaFragment;
+import moises.com.demolibraries.services.workmanager.TestWorkManagerFragment;
 
 public class MainActivity extends BaseActivity {
 
@@ -29,7 +25,7 @@ public class MainActivity extends BaseActivity {
     private void showFragment(){
         getSupportFragmentManager()
                 .beginTransaction()
-                .replace(R.id.content_main, HeatMapboxFragment.newInstance())
+                .replace(R.id.content_main, TestWorkManagerFragment.newInstance())
                 .commit();
     }
 

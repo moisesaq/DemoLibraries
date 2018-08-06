@@ -9,6 +9,7 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Toast;
 
 import java.util.List;
 import java.util.concurrent.TimeUnit;
@@ -58,14 +59,40 @@ public class RxJavaFragment extends Fragment {
     public void onClick(View view){
         switch (view.getId()){
             case R.id.btn_start:
-                executeDelayAndShowAlert();
+                //executeDelayAndShowAlert();
+                isTokenRefreshing()
+                        .subscribeOn(Schedulers.io())
+                        .doOnSubscribe(compositeDisposable::add)
+                        .observeOn(AndroidSchedulers.mainThread())
+                        .subscribe(aBoolean -> showMessage(), this::logError);
                 break;
             case R.id.btn_change_flag:
-                //isNotUpdating = true;
+                isNotUpdating = true;
                 //showAlert(MockHome.getInstance().getHomes().get(0));
-                SecondActivity.start(getContext());
+                //SecondActivity.start(getContext());
                 break;
         }
+    }
+
+    private void showMessage(){
+        Toast.makeText(getContext(), "Finished", Toast.LENGTH_SHORT).show();
+    }
+
+    private Observable<?> isTokenRefreshing(){
+        return Observable.timer(3, TimeUnit.SECONDS)
+                .repeatWhen(objectObservable -> objectObservable.flatMap(o -> {
+                    log("Executing delay...");
+                    return Observable.just(o);
+                }))
+                .takeUntil(aLong -> checkRefresh() == 1);
+    }
+
+    private int checkRefresh(){
+        return isRefreshing() ? 1 : 0;
+    }
+
+    private boolean isRefreshing() {
+        return isNotUpdating;
     }
 
     private void executeDelayAndShowAlert(){

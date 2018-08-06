@@ -1,4 +1,4 @@
-package moises.com.demolibraries.jobDispatcher;
+package moises.com.demolibraries.services.jobDispatcher;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
